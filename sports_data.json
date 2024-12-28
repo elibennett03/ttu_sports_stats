@@ -1,0 +1,3370 @@
+{
+    "men": {
+        "baseball": [
+            {
+                "title": "Le Moyne vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#z10x4rl5mbqfr2jp",
+                "description": "Baseball on Feb 14, 2025 at 3:00 PM: Le Moyne vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Fri, 14 Feb 2025 21:00:00 GMT",
+                "dc_date": "2025-02-14T21:00:00Z",
+                "score": null,
+                "opponent": "Le Moyne"
+            },
+            {
+                "title": "Le Moyne vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#g0l0on5t4kqc5jii",
+                "description": "Baseball on Feb 15, 2025 at 1:00 PM: Le Moyne vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Sat, 15 Feb 2025 19:00:00 GMT",
+                "dc_date": "2025-02-15T19:00:00Z",
+                "score": null,
+                "opponent": "Le Moyne"
+            },
+            {
+                "title": "Le Moyne vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#vfqmnl3tjwjinqqq",
+                "description": "Baseball on Feb 15, 2025 at 4:00 PM: Le Moyne vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Sat, 15 Feb 2025 22:00:00 GMT",
+                "dc_date": "2025-02-15T22:00:00Z",
+                "score": null,
+                "opponent": "Le Moyne"
+            },
+            {
+                "title": "Le Moyne vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#2xjpl2zv8u6lwmq5",
+                "description": "Baseball on Feb 16, 2025 at 1:00 PM: Le Moyne vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Sun, 16 Feb 2025 19:00:00 GMT",
+                "dc_date": "2025-02-16T19:00:00Z",
+                "score": null,
+                "opponent": "Le Moyne"
+            },
+            {
+                "title": "Belmont vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#wzjdsau1680iantl",
+                "description": "Baseball on Feb 18, 2025 at 3:00 PM: Belmont vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Tue, 18 Feb 2025 21:00:00 GMT",
+                "dc_date": "2025-02-18T21:00:00Z",
+                "score": null,
+                "opponent": "Belmont"
+            },
+            {
+                "title": "Southern Illinois vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#auviyy2uu43vqaey",
+                "description": "Baseball on Feb 21, 2025 at 3:00 PM: Southern Illinois vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Fri, 21 Feb 2025 21:00:00 GMT",
+                "dc_date": "2025-02-21T21:00:00Z",
+                "score": null,
+                "opponent": "Southern Illinois"
+            },
+            {
+                "title": "Southern Illinois vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#upknuho3koajar8f",
+                "description": "Baseball on Feb 22, 2025 at 2:00 PM: Southern Illinois vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Sat, 22 Feb 2025 20:00:00 GMT",
+                "dc_date": "2025-02-22T20:00:00Z",
+                "score": null,
+                "opponent": "Southern Illinois"
+            },
+            {
+                "title": "Southern Illinois vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#2vz7hgvqgwk5h9nn",
+                "description": "Baseball on Feb 23, 2025 at 1:00 PM: Southern Illinois vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Sun, 23 Feb 2025 19:00:00 GMT",
+                "dc_date": "2025-02-23T19:00:00Z",
+                "score": null,
+                "opponent": "Southern Illinois"
+            },
+            {
+                "title": "Tennessee Tech vs. Vanderbilt",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#dxl7sml9iix4a3aq",
+                "description": "Baseball on Feb 25, 2025: Tennessee Tech vs. Vanderbilt",
+                "category": "Baseball",
+                "pubDate": "Tue, 25 Feb 2025 06:00:00 GMT",
+                "dc_date": "2025-02-25T06:00:00Z",
+                "score": null,
+                "opponent": "at Vanderbilt"
+            },
+            {
+                "title": "Ill.-Chicago vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#b4ltyyn5yz95w2g6",
+                "description": "Baseball on Feb 28, 2025 at 3:00 PM: Ill.-Chicago vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Fri, 28 Feb 2025 21:00:00 GMT",
+                "dc_date": "2025-02-28T21:00:00Z",
+                "score": null,
+                "opponent": "Ill.-Chicago"
+            },
+            {
+                "title": "Ill.-Chicago vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#e01iajcxccf7pybb",
+                "description": "Baseball on Mar 1, 2025 at 2:00 PM: Ill.-Chicago vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Sat, 01 Mar 2025 20:00:00 GMT",
+                "dc_date": "2025-03-01T20:00:00Z",
+                "score": null,
+                "opponent": "Ill.-Chicago"
+            },
+            {
+                "title": "Ill.-Chicago vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#a6mr3ndd6kfrr0ko",
+                "description": "Baseball on Mar 2, 2025 at 1:00 PM: Ill.-Chicago vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Sun, 02 Mar 2025 19:00:00 GMT",
+                "dc_date": "2025-03-02T19:00:00Z",
+                "score": null,
+                "opponent": "Ill.-Chicago"
+            },
+            {
+                "title": "WKU vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#e33zt07fqzeufopi",
+                "description": "Baseball on Mar 4, 2025 at 3:00 PM: WKU vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Tue, 04 Mar 2025 21:00:00 GMT",
+                "dc_date": "2025-03-04T21:00:00Z",
+                "score": null,
+                "opponent": "WKU"
+            },
+            {
+                "title": "Tennessee Tech vs. Belmont",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#46hhmxclx4e67xq2",
+                "description": "Baseball on Mar 5, 2025: Tennessee Tech vs. Belmont",
+                "category": "Baseball",
+                "pubDate": "Wed, 05 Mar 2025 06:00:00 GMT",
+                "dc_date": "2025-03-05T06:00:00Z",
+                "score": null,
+                "opponent": "at Belmont"
+            },
+            {
+                "title": "Purdue Fort Wayne vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#cn4u0bd5q3c2de23",
+                "description": "Baseball on Mar 7, 2025 at 3:00 PM: Purdue Fort Wayne vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Fri, 07 Mar 2025 21:00:00 GMT",
+                "dc_date": "2025-03-07T21:00:00Z",
+                "score": null,
+                "opponent": "Purdue Fort Wayne"
+            },
+            {
+                "title": "Purdue Fort Wayne vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#sjf3mi84rpvpugni",
+                "description": "Baseball on Mar 8, 2025 at 2:00 PM: Purdue Fort Wayne vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Sat, 08 Mar 2025 20:00:00 GMT",
+                "dc_date": "2025-03-08T20:00:00Z",
+                "score": null,
+                "opponent": "Purdue Fort Wayne"
+            },
+            {
+                "title": "Purdue Fort Wayne vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#rmeiqxfdvpprqjvk",
+                "description": "Baseball on Mar 9, 2025 at 1:00 PM: Purdue Fort Wayne vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Sun, 09 Mar 2025 18:00:00 GMT",
+                "dc_date": "2025-03-09T18:00:00Z",
+                "score": null,
+                "opponent": "Purdue Fort Wayne"
+            },
+            {
+                "title": "Tennessee Tech vs. Middle Tennessee",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#fqilq8r4pkrrhg64",
+                "description": "Baseball on Mar 11, 2025: Tennessee Tech vs. Middle Tennessee",
+                "category": "Baseball",
+                "pubDate": "Tue, 11 Mar 2025 05:00:00 GMT",
+                "dc_date": "2025-03-11T05:00:00Z",
+                "score": null,
+                "opponent": "at Middle Tennessee"
+            },
+            {
+                "title": "Tennessee Tech vs. Mercer",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#sw5btgwic9mexsz8",
+                "description": "Baseball on Mar 14, 2025 at 5:00 PM: Tennessee Tech vs. Mercer",
+                "category": "Baseball",
+                "pubDate": "Fri, 14 Mar 2025 22:00:00 GMT",
+                "dc_date": "2025-03-14T22:00:00Z",
+                "score": null,
+                "opponent": "at Mercer"
+            },
+            {
+                "title": "Tennessee Tech vs. Mercer",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#z1yrm7fku97sjyip",
+                "description": "Baseball on Mar 15, 2025 at 1:00 PM: Tennessee Tech vs. Mercer",
+                "category": "Baseball",
+                "pubDate": "Sat, 15 Mar 2025 18:00:00 GMT",
+                "dc_date": "2025-03-15T18:00:00Z",
+                "score": null,
+                "opponent": "at Mercer"
+            },
+            {
+                "title": "Tennessee Tech vs. Mercer",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#5246w9xfa9g5e8fn",
+                "description": "Baseball on Mar 16, 2025 at 12:00 PM: Tennessee Tech vs. Mercer",
+                "category": "Baseball",
+                "pubDate": "Sun, 16 Mar 2025 17:00:00 GMT",
+                "dc_date": "2025-03-16T17:00:00Z",
+                "score": null,
+                "opponent": "at Mercer"
+            },
+            {
+                "title": "Austin Peay vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#4rhuxm8py24yshbp",
+                "description": "Baseball on Mar 18, 2025 at 6:00 PM: Austin Peay vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Tue, 18 Mar 2025 23:00:00 GMT",
+                "dc_date": "2025-03-18T23:00:00Z",
+                "score": null,
+                "opponent": "Austin Peay"
+            },
+            {
+                "title": "Tennessee Tech vs. Little Rock",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#6nz79ghe9cre2cqn",
+                "description": "Baseball on Mar 21, 2025: Tennessee Tech vs. Little Rock",
+                "category": "Baseball",
+                "pubDate": "Fri, 21 Mar 2025 05:00:00 GMT",
+                "dc_date": "2025-03-21T05:00:00Z",
+                "score": null,
+                "opponent": "at Little Rock"
+            },
+            {
+                "title": "Tennessee Tech vs. Little Rock",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#teajtd8osf2yo4sv",
+                "description": "Baseball on Mar 22, 2025: Tennessee Tech vs. Little Rock",
+                "category": "Baseball",
+                "pubDate": "Sat, 22 Mar 2025 05:00:00 GMT",
+                "dc_date": "2025-03-22T05:00:00Z",
+                "score": null,
+                "opponent": "at Little Rock"
+            },
+            {
+                "title": "Tennessee Tech vs. Little Rock",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#mk1k6vhl39l1tn7m",
+                "description": "Baseball on Mar 23, 2025: Tennessee Tech vs. Little Rock",
+                "category": "Baseball",
+                "pubDate": "Sun, 23 Mar 2025 05:00:00 GMT",
+                "dc_date": "2025-03-23T05:00:00Z",
+                "score": null,
+                "opponent": "at Little Rock"
+            },
+            {
+                "title": "Tennessee Tech vs. Austin Peay",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#i7rgnlcqtuv8cr44",
+                "description": "Baseball on Mar 25, 2025: Tennessee Tech vs. Austin Peay",
+                "category": "Baseball",
+                "pubDate": "Tue, 25 Mar 2025 05:00:00 GMT",
+                "dc_date": "2025-03-25T05:00:00Z",
+                "score": null,
+                "opponent": "at Austin Peay"
+            },
+            {
+                "title": "SIUE vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#nospvnpm9sxsxxma",
+                "description": "Baseball on Mar 28, 2025 at 6:00 PM: SIUE vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Fri, 28 Mar 2025 23:00:00 GMT",
+                "dc_date": "2025-03-28T23:00:00Z",
+                "score": null,
+                "opponent": "SIUE"
+            },
+            {
+                "title": "SIUE vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#mnt2vfhwbww045v3",
+                "description": "Baseball on Mar 29, 2025 at 2:00 PM: SIUE vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Sat, 29 Mar 2025 19:00:00 GMT",
+                "dc_date": "2025-03-29T19:00:00Z",
+                "score": null,
+                "opponent": "SIUE"
+            },
+            {
+                "title": "SIUE vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#25xbiqqxavwgvdmz",
+                "description": "Baseball on Mar 30, 2025 at 1:00 PM: SIUE vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Sun, 30 Mar 2025 18:00:00 GMT",
+                "dc_date": "2025-03-30T18:00:00Z",
+                "score": null,
+                "opponent": "SIUE"
+            },
+            {
+                "title": "Tennessee Tech vs. Tennessee",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#xgpixmdts04v0fqm",
+                "description": "Baseball on Apr 1, 2025: Tennessee Tech vs. Tennessee",
+                "category": "Baseball",
+                "pubDate": "Tue, 01 Apr 2025 05:00:00 GMT",
+                "dc_date": "2025-04-01T05:00:00Z",
+                "score": null,
+                "opponent": "at Tennessee"
+            },
+            {
+                "title": "Tennessee Tech vs. Western Illinois",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#9i1e3jadwd2hbgs3",
+                "description": "Baseball on Apr 4, 2025: Tennessee Tech vs. Western Illinois",
+                "category": "Baseball",
+                "pubDate": "Fri, 04 Apr 2025 05:00:00 GMT",
+                "dc_date": "2025-04-04T05:00:00Z",
+                "score": null,
+                "opponent": "at Western Illinois"
+            },
+            {
+                "title": "Tennessee Tech vs. Western Illinois",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#hy6fz6ofqa0u66yh",
+                "description": "Baseball on Apr 5, 2025: Tennessee Tech vs. Western Illinois",
+                "category": "Baseball",
+                "pubDate": "Sat, 05 Apr 2025 05:00:00 GMT",
+                "dc_date": "2025-04-05T05:00:00Z",
+                "score": null,
+                "opponent": "at Western Illinois"
+            },
+            {
+                "title": "Tennessee Tech vs. Western Illinois",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#e69bcpy0vhqtiafn",
+                "description": "Baseball on Apr 6, 2025: Tennessee Tech vs. Western Illinois",
+                "category": "Baseball",
+                "pubDate": "Sun, 06 Apr 2025 05:00:00 GMT",
+                "dc_date": "2025-04-06T05:00:00Z",
+                "score": null,
+                "opponent": "at Western Illinois"
+            },
+            {
+                "title": "Lipscomb vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#l6kl9ec58daw4k6a",
+                "description": "Baseball on Apr 8, 2025 at 6:00 PM: Lipscomb vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Tue, 08 Apr 2025 23:00:00 GMT",
+                "dc_date": "2025-04-08T23:00:00Z",
+                "score": null,
+                "opponent": "Lipscomb"
+            },
+            {
+                "title": "Southern Indiana vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#e6ivi19lrsxrohy4",
+                "description": "Baseball on Apr 11, 2025 at 6:00 PM: Southern Indiana vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Fri, 11 Apr 2025 23:00:00 GMT",
+                "dc_date": "2025-04-11T23:00:00Z",
+                "score": null,
+                "opponent": "Southern Indiana"
+            },
+            {
+                "title": "Southern Indiana vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#lej37qxkm4h3tdro",
+                "description": "Baseball on Apr 12, 2025 at 2:00 PM: Southern Indiana vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Sat, 12 Apr 2025 19:00:00 GMT",
+                "dc_date": "2025-04-12T19:00:00Z",
+                "score": null,
+                "opponent": "Southern Indiana"
+            },
+            {
+                "title": "Southern Indiana vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#xd1ejbxsky3tuwlo",
+                "description": "Baseball on Apr 13, 2025 at 1:00 PM: Southern Indiana vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Sun, 13 Apr 2025 18:00:00 GMT",
+                "dc_date": "2025-04-13T18:00:00Z",
+                "score": null,
+                "opponent": "Southern Indiana"
+            },
+            {
+                "title": "Tennessee Tech vs. Eastern Illinois",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#dinqp307kt6qxl1l",
+                "description": "Baseball on Apr 17, 2025 at 3:00 PM: Tennessee Tech vs. Eastern Illinois",
+                "category": "Baseball",
+                "pubDate": "Thu, 17 Apr 2025 20:00:00 GMT",
+                "dc_date": "2025-04-17T20:00:00Z",
+                "score": null,
+                "opponent": "at Eastern Illinois"
+            },
+            {
+                "title": "Tennessee Tech vs. Eastern Illinois",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#47j6lg9hik0m29qz",
+                "description": "Baseball on Apr 18, 2025 at 1:00 PM: Tennessee Tech vs. Eastern Illinois",
+                "category": "Baseball",
+                "pubDate": "Fri, 18 Apr 2025 18:00:00 GMT",
+                "dc_date": "2025-04-18T18:00:00Z",
+                "score": null,
+                "opponent": "at Eastern Illinois"
+            },
+            {
+                "title": "Tennessee Tech vs. Eastern Illinois",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#7l00sphj6wqmh8r9",
+                "description": "Baseball on Apr 19, 2025 at 1:00 PM: Tennessee Tech vs. Eastern Illinois",
+                "category": "Baseball",
+                "pubDate": "Sat, 19 Apr 2025 18:00:00 GMT",
+                "dc_date": "2025-04-19T18:00:00Z",
+                "score": null,
+                "opponent": "at Eastern Illinois"
+            },
+            {
+                "title": "USC Upstate vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#ga0b7q8wgiz81gjy",
+                "description": "Baseball on Apr 22, 2025 at 6:00 PM: USC Upstate vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Tue, 22 Apr 2025 23:00:00 GMT",
+                "dc_date": "2025-04-22T23:00:00Z",
+                "score": null,
+                "opponent": "USC Upstate"
+            },
+            {
+                "title": "USC Upstate vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#9yz4277f2z0fcd1l",
+                "description": "Baseball on Apr 23, 2025 at 3:00 PM: USC Upstate vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Wed, 23 Apr 2025 20:00:00 GMT",
+                "dc_date": "2025-04-23T20:00:00Z",
+                "score": null,
+                "opponent": "USC Upstate"
+            },
+            {
+                "title": "UT Martin vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#ecmwrwmwxsdhn2ng",
+                "description": "Baseball on Apr 25, 2025 at 6:00 PM: UT Martin vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Fri, 25 Apr 2025 23:00:00 GMT",
+                "dc_date": "2025-04-25T23:00:00Z",
+                "score": null,
+                "opponent": "UT Martin"
+            },
+            {
+                "title": "UT Martin vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#bpwzlq0oax36xwlq",
+                "description": "Baseball on Apr 26, 2025 at 2:00 PM: UT Martin vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Sat, 26 Apr 2025 19:00:00 GMT",
+                "dc_date": "2025-04-26T19:00:00Z",
+                "score": null,
+                "opponent": "UT Martin"
+            },
+            {
+                "title": "UT Martin vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#o3jx3jb9nprm0dfc",
+                "description": "Baseball on Apr 27, 2025 at 1:00 PM: UT Martin vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Sun, 27 Apr 2025 18:00:00 GMT",
+                "dc_date": "2025-04-27T18:00:00Z",
+                "score": null,
+                "opponent": "UT Martin"
+            },
+            {
+                "title": "Tennessee Tech vs. Lipscomb",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#0bn9ttqe9spmzexv",
+                "description": "Baseball on Apr 29, 2025 at 6:00 PM: Tennessee Tech vs. Lipscomb",
+                "category": "Baseball",
+                "pubDate": "Tue, 29 Apr 2025 23:00:00 GMT",
+                "dc_date": "2025-04-29T23:00:00Z",
+                "score": null,
+                "opponent": "at Lipscomb"
+            },
+            {
+                "title": "Tennessee Tech vs. Southeast Missouri",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#r49v71sa54a7elbl",
+                "description": "Baseball on May 2, 2025: Tennessee Tech vs. Southeast Missouri",
+                "category": "Baseball",
+                "pubDate": "Fri, 02 May 2025 05:00:00 GMT",
+                "dc_date": "2025-05-02T05:00:00Z",
+                "score": null,
+                "opponent": "at Southeast Missouri"
+            },
+            {
+                "title": "Tennessee Tech vs. Southeast Missouri",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#199vr72gnqwwrccj",
+                "description": "Baseball on May 3, 2025: Tennessee Tech vs. Southeast Missouri",
+                "category": "Baseball",
+                "pubDate": "Sat, 03 May 2025 05:00:00 GMT",
+                "dc_date": "2025-05-03T05:00:00Z",
+                "score": null,
+                "opponent": "at Southeast Missouri"
+            },
+            {
+                "title": "Tennessee Tech vs. Southeast Missouri",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#dfi2moqgor9w262o",
+                "description": "Baseball on May 4, 2025: Tennessee Tech vs. Southeast Missouri",
+                "category": "Baseball",
+                "pubDate": "Sun, 04 May 2025 05:00:00 GMT",
+                "dc_date": "2025-05-04T05:00:00Z",
+                "score": null,
+                "opponent": "at Southeast Missouri"
+            },
+            {
+                "title": "Lindenwood vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#d21mm49ammx83bbg",
+                "description": "Baseball on May 9, 2025 at 6:00 PM: Lindenwood vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Fri, 09 May 2025 23:00:00 GMT",
+                "dc_date": "2025-05-09T23:00:00Z",
+                "score": null,
+                "opponent": "Lindenwood"
+            },
+            {
+                "title": "Lindenwood vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#wbo3hbkvanhvf3ta",
+                "description": "Baseball on May 10, 2025 at 2:00 PM: Lindenwood vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Sat, 10 May 2025 19:00:00 GMT",
+                "dc_date": "2025-05-10T19:00:00Z",
+                "score": null,
+                "opponent": "Lindenwood"
+            },
+            {
+                "title": "Lindenwood vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#wg5a1c1vcvks4jwx",
+                "description": "Baseball on May 11, 2025 at 1:00 PM: Lindenwood vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Sun, 11 May 2025 18:00:00 GMT",
+                "dc_date": "2025-05-11T18:00:00Z",
+                "score": null,
+                "opponent": "Lindenwood"
+            },
+            {
+                "title": "Middle Tennessee vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#d8cae0mwsnwkcmfg",
+                "description": "Baseball on May 13, 2025 at 6:00 PM: Middle Tennessee vs. Tennessee Tech",
+                "category": "Baseball",
+                "pubDate": "Tue, 13 May 2025 23:00:00 GMT",
+                "dc_date": "2025-05-13T23:00:00Z",
+                "score": null,
+                "opponent": "Middle Tennessee"
+            },
+            {
+                "title": "Tennessee Tech vs. Morehead State",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#cgwl2l2g3felgm6z",
+                "description": "Baseball on May 15, 2025 at 5:00 PM: Tennessee Tech vs. Morehead State",
+                "category": "Baseball",
+                "pubDate": "Thu, 15 May 2025 22:00:00 GMT",
+                "dc_date": "2025-05-15T22:00:00Z",
+                "score": null,
+                "opponent": "at Morehead State"
+            },
+            {
+                "title": "Tennessee Tech vs. Morehead State",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#9915ylje59llky95",
+                "description": "Baseball on May 16, 2025 at 1:00 PM: Tennessee Tech vs. Morehead State",
+                "category": "Baseball",
+                "pubDate": "Fri, 16 May 2025 18:00:00 GMT",
+                "dc_date": "2025-05-16T18:00:00Z",
+                "score": null,
+                "opponent": "at Morehead State"
+            },
+            {
+                "title": "Tennessee Tech vs. Morehead State",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#nvn09wa7oq83b155",
+                "description": "Baseball on May 17, 2025 at 12:00 PM: Tennessee Tech vs. Morehead State",
+                "category": "Baseball",
+                "pubDate": "Sat, 17 May 2025 17:00:00 GMT",
+                "dc_date": "2025-05-17T17:00:00Z",
+                "score": null,
+                "opponent": "at Morehead State"
+            },
+            {
+                "title": "Tennessee Tech vs. TBA",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#cerfkaj56ze4fj0o",
+                "description": "Baseball on May 21, 2025: Tennessee Tech vs. TBA, OVC Tournament",
+                "category": "Baseball",
+                "pubDate": "Wed, 21 May 2025 05:00:00 GMT",
+                "dc_date": "2025-05-21T05:00:00Z",
+                "score": null,
+                "opponent": "vs. TBA @ Marion, Ill."
+            },
+            {
+                "title": "Tennessee Tech vs. TBA",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#r10lgfmbtig5en7v",
+                "description": "Baseball on May 22, 2025: Tennessee Tech vs. TBA, OVC Tournament",
+                "category": "Baseball",
+                "pubDate": "Thu, 22 May 2025 05:00:00 GMT",
+                "dc_date": "2025-05-22T05:00:00Z",
+                "score": null,
+                "opponent": "vs. TBA @ Marion, Ill."
+            },
+            {
+                "title": "Tennessee Tech vs. TBA",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#ge2huukpvc40skc6",
+                "description": "Baseball on May 23, 2025: Tennessee Tech vs. TBA, OVC Tournament",
+                "category": "Baseball",
+                "pubDate": "Fri, 23 May 2025 05:00:00 GMT",
+                "dc_date": "2025-05-23T05:00:00Z",
+                "score": null,
+                "opponent": "vs. TBA @ Marion, Ill."
+            },
+            {
+                "title": "Tennessee Tech vs. TBA",
+                "link": "https://www.ttusports.com/sports/bsb/2024-25/schedule#65jb5ku7uoo8qmmr",
+                "description": "Baseball on May 24, 2025: Tennessee Tech vs. TBA, OVC Tournament",
+                "category": "Baseball",
+                "pubDate": "Sat, 24 May 2025 05:00:00 GMT",
+                "dc_date": "2025-05-24T05:00:00Z",
+                "score": null,
+                "opponent": "vs. TBA @ Marion, Ill."
+            }
+        ],
+        "basketball": [
+            {
+                "title": "Austin Peay 90, Tennessee Tech 80 Final",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#yegflyukh1j5w44n",
+                "description": "Men's Basketball on Oct 22, 2024 at 6:00 PM: Austin Peay vs. Tennessee Tech, Charity Exhibition, Final, 90-80",
+                "category": "Men's Basketball",
+                "pubDate": "Tue, 22 Oct 2024 23:00:00 GMT",
+                "dc_date": "2024-10-22T23:00:00Z",
+                "score": "L, 90-80",
+                "opponent": "Austin Peay"
+            },
+            {
+                "title": "Oakland City 56, Tennessee Tech 100 Final",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#39vq8o8j00i1x4cd",
+                "description": "Men's Basketball on Oct 29, 2024 at 7:30 PM: Oakland City vs. Tennessee Tech, Exhibition, Final, 56-100",
+                "category": "Men's Basketball",
+                "pubDate": "Wed, 30 Oct 2024 00:30:00 GMT",
+                "dc_date": "2024-10-30T00:30:00Z",
+                "score": "W, 100-56",
+                "opponent": "Oakland City"
+            },
+            {
+                "title": "Tennessee Tech 78, Georgia 83 Final",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#9qy5pm83tdp0bp3x",
+                "description": "Men's Basketball on Nov 4, 2024 at 6:30 PM: Tennessee Tech vs. Georgia, Final, 78-83",
+                "category": "Men's Basketball",
+                "pubDate": "Tue, 05 Nov 2024 00:30:00 GMT",
+                "dc_date": "2024-11-05T00:30:00Z",
+                "score": "L, 83-78",
+                "opponent": "at Georgia"
+            },
+            {
+                "title": "Bryan College 74, Tennessee Tech 89 Final",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#fzksb08rci873go0",
+                "description": "Men's Basketball on Nov 7, 2024 at 7:00 PM: Bryan College vs. Tennessee Tech, Final, 74-89",
+                "category": "Men's Basketball",
+                "pubDate": "Fri, 08 Nov 2024 01:00:00 GMT",
+                "dc_date": "2024-11-08T01:00:00Z",
+                "score": "W, 89-74",
+                "opponent": "Bryan College"
+            },
+            {
+                "title": "West Georgia 73, Tennessee Tech 76 Final",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#dxub9usk4vvr84fi",
+                "description": "Men's Basketball on Nov 12, 2024 at 6:00 PM: West Georgia vs. Tennessee Tech, Final, 73-76",
+                "category": "Men's Basketball",
+                "pubDate": "Wed, 13 Nov 2024 00:00:00 GMT",
+                "dc_date": "2024-11-13T00:00:00Z",
+                "score": "W, 76-73",
+                "opponent": "West Georgia"
+            },
+            {
+                "title": "Tennessee Tech 72, VMI 71 Final",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#zg5kiw0jjp4beep7",
+                "description": "Men's Basketball on Nov 15, 2024 at 2:30 PM: Tennessee Tech vs. VMI, Greenbrier Tip-Off, Final, 72-71",
+                "category": "Men's Basketball",
+                "pubDate": "Fri, 15 Nov 2024 20:30:00 GMT",
+                "dc_date": "2024-11-15T20:30:00Z",
+                "score": "W, 72-71",
+                "opponent": "vs. VMI @ Colonial Hall at The Greenbrier, White Sulphur Springs, WV"
+            },
+            {
+                "title": "UTRGV 83, Tennessee Tech 58 Final",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#nfzdawycoebwp4f3",
+                "description": "Men's Basketball on Nov 16, 2024 at 1:30 PM: UTRGV vs. Tennessee Tech, Greenbrier Tip-Off, Final, 83-58",
+                "category": "Men's Basketball",
+                "pubDate": "Sat, 16 Nov 2024 19:30:00 GMT",
+                "dc_date": "2024-11-16T19:30:00Z",
+                "score": "L, 83-58",
+                "opponent": "vs. UTRGV @ Colonial Hall at The Greenbrier, White Sulphur Springs, WV"
+            },
+            {
+                "title": "Tennessee Tech 69, UCF 80 Final",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#wpm20ssk36a1ynkh",
+                "description": "Men's Basketball on Nov 19, 2024 at 6:00 PM: Tennessee Tech vs. UCF, Final, 69-80",
+                "category": "Men's Basketball",
+                "pubDate": "Wed, 20 Nov 2024 00:00:00 GMT",
+                "dc_date": "2024-11-20T00:00:00Z",
+                "score": "L, 80-69",
+                "opponent": "at UCF"
+            },
+            {
+                "title": "Presbyterian 75, Tennessee Tech 90 Final",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#a8idq3irs1c619nj",
+                "description": "Men's Basketball on Nov 27, 2024 at 1:00 PM: Presbyterian vs. Tennessee Tech, Final, 75-90",
+                "category": "Men's Basketball",
+                "pubDate": "Wed, 27 Nov 2024 19:00:00 GMT",
+                "dc_date": "2024-11-27T19:00:00Z",
+                "score": "W, 90-75",
+                "opponent": "Presbyterian"
+            },
+            {
+                "title": "Tennessee Tech 56, Vanderbilt 87 Final",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#378eumdz8iktq901",
+                "description": "Men's Basketball on Nov 29, 2024 at 2:00 PM: Tennessee Tech vs. Vanderbilt, Final, 56-87",
+                "category": "Men's Basketball",
+                "pubDate": "Fri, 29 Nov 2024 20:00:00 GMT",
+                "dc_date": "2024-11-29T20:00:00Z",
+                "score": "L, 87-56",
+                "opponent": "at Vanderbilt"
+            },
+            {
+                "title": "Tennessee Tech 59, North Alabama 82 Final",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#y1bixad05u2zldys",
+                "description": "Men's Basketball on Dec 4, 2024 at 6:00 PM: Tennessee Tech vs. North Alabama, Final, 59-82",
+                "category": "Men's Basketball",
+                "pubDate": "Thu, 05 Dec 2024 00:00:00 GMT",
+                "dc_date": "2024-12-05T00:00:00Z",
+                "score": "L, 82-59",
+                "opponent": "at North Alabama"
+            },
+            {
+                "title": "Tennessee Tech 73, West Georgia 78 Final",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#9szwgi6ld6kxpma3",
+                "description": "Men's Basketball on Dec 7, 2024 at 1:00 PM: Tennessee Tech vs. West Georgia, Final, 73-78",
+                "category": "Men's Basketball",
+                "pubDate": "Sat, 07 Dec 2024 19:00:00 GMT",
+                "dc_date": "2024-12-07T19:00:00Z",
+                "score": "L, 78-73",
+                "opponent": "at West Georgia"
+            },
+            {
+                "title": "Tennessee Tech 68, Western Illinois 71 Final",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#y1lmv75fvmuj46zt",
+                "description": "Men's Basketball on Dec 17, 2024 at 7:30 PM: Tennessee Tech vs. Western Illinois, Final, 68-71",
+                "category": "Men's Basketball",
+                "pubDate": "Wed, 18 Dec 2024 01:30:00 GMT",
+                "dc_date": "2024-12-18T01:30:00Z",
+                "score": "L, 71-68",
+                "opponent": "at Western Illinois"
+            },
+            {
+                "title": "Tennessee Tech 79, Lindenwood 73 Final",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#13vhto3ya627cwaz",
+                "description": "Men's Basketball on Dec 19, 2024 at 7:30 PM: Tennessee Tech vs. Lindenwood, Final, 79-73",
+                "category": "Men's Basketball",
+                "pubDate": "Fri, 20 Dec 2024 01:30:00 GMT",
+                "dc_date": "2024-12-20T01:30:00Z",
+                "score": "W, 79-73",
+                "opponent": "at Lindenwood"
+            },
+            {
+                "title": "Milligan vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#5x7dioyshn2qaeyl",
+                "description": "Men's Basketball on Dec 29, 2024 at 1:00 PM: Milligan vs. Tennessee Tech",
+                "category": "Men's Basketball",
+                "pubDate": "Sun, 29 Dec 2024 19:00:00 GMT",
+                "dc_date": "2024-12-29T19:00:00Z",
+                "score": null,
+                "opponent": "Milligan"
+            },
+            {
+                "title": "Southern Indiana vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#rfg0wl5dsqaahriy",
+                "description": "Men's Basketball on Jan 2, 2025 at 7:30 PM: Southern Indiana vs. Tennessee Tech",
+                "category": "Men's Basketball",
+                "pubDate": "Fri, 03 Jan 2025 01:30:00 GMT",
+                "dc_date": "2025-01-03T01:30:00Z",
+                "score": null,
+                "opponent": "Southern Indiana"
+            },
+            {
+                "title": "Morehead State vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#3cwyh0jp1wz30f3i",
+                "description": "Men's Basketball on Jan 4, 2025 at 3:00 PM: Morehead State vs. Tennessee Tech",
+                "category": "Men's Basketball",
+                "pubDate": "Sat, 04 Jan 2025 21:00:00 GMT",
+                "dc_date": "2025-01-04T21:00:00Z",
+                "score": null,
+                "opponent": "Morehead State"
+            },
+            {
+                "title": "Tennessee Tech vs. Eastern Illinois",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#he6c0x79w81a2f90",
+                "description": "Men's Basketball on Jan 9, 2025 at 7:30 PM: Tennessee Tech vs. Eastern Illinois",
+                "category": "Men's Basketball",
+                "pubDate": "Fri, 10 Jan 2025 01:30:00 GMT",
+                "dc_date": "2025-01-10T01:30:00Z",
+                "score": null,
+                "opponent": "at Eastern Illinois"
+            },
+            {
+                "title": "Tennessee Tech vs. SIUE",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#j9su535iqi9cbmyt",
+                "description": "Men's Basketball on Jan 11, 2025 at 3:30 PM: Tennessee Tech vs. SIUE",
+                "category": "Men's Basketball",
+                "pubDate": "Sat, 11 Jan 2025 21:30:00 GMT",
+                "dc_date": "2025-01-11T21:30:00Z",
+                "score": null,
+                "opponent": "at SIUE"
+            },
+            {
+                "title": "Southeast Missouri vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#4tll8jdw8lrgwpli",
+                "description": "Men's Basketball on Jan 16, 2025 at 7:30 PM: Southeast Missouri vs. Tennessee Tech",
+                "category": "Men's Basketball",
+                "pubDate": "Fri, 17 Jan 2025 01:30:00 GMT",
+                "dc_date": "2025-01-17T01:30:00Z",
+                "score": null,
+                "opponent": "Southeast Missouri"
+            },
+            {
+                "title": "Little Rock vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#8vxujb2pxd4qb248",
+                "description": "Men's Basketball on Jan 18, 2025 at 3:00 PM: Little Rock vs. Tennessee Tech",
+                "category": "Men's Basketball",
+                "pubDate": "Sat, 18 Jan 2025 21:00:00 GMT",
+                "dc_date": "2025-01-18T21:00:00Z",
+                "score": null,
+                "opponent": "Little Rock"
+            },
+            {
+                "title": "Tennessee Tech vs. Tennessee State",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#t4r2mu1m1bmhvwx1",
+                "description": "Men's Basketball on Jan 23, 2025 at 7:30 PM: Tennessee Tech vs. Tennessee State",
+                "category": "Men's Basketball",
+                "pubDate": "Fri, 24 Jan 2025 01:30:00 GMT",
+                "dc_date": "2025-01-24T01:30:00Z",
+                "score": null,
+                "opponent": "at Tennessee State"
+            },
+            {
+                "title": "Tennessee Tech vs. UT Martin",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#ui7ff4l0gxt6b5yk",
+                "description": "Men's Basketball on Jan 25, 2025 at 3:30 PM: Tennessee Tech vs. UT Martin",
+                "category": "Men's Basketball",
+                "pubDate": "Sat, 25 Jan 2025 21:30:00 GMT",
+                "dc_date": "2025-01-25T21:30:00Z",
+                "score": null,
+                "opponent": "at UT Martin"
+            },
+            {
+                "title": "Tennessee Tech vs. Morehead State",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#s0r4c6mb7zl4dw8f",
+                "description": "Men's Basketball on Jan 30, 2025 at 6:30 PM: Tennessee Tech vs. Morehead State",
+                "category": "Men's Basketball",
+                "pubDate": "Fri, 31 Jan 2025 00:30:00 GMT",
+                "dc_date": "2025-01-31T00:30:00Z",
+                "score": null,
+                "opponent": "at Morehead State"
+            },
+            {
+                "title": "Tennessee Tech vs. Southern Indiana",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#twq4l1eixgix7ng9",
+                "description": "Men's Basketball on Feb 1, 2025 at 3:30 PM: Tennessee Tech vs. Southern Indiana",
+                "category": "Men's Basketball",
+                "pubDate": "Sat, 01 Feb 2025 21:30:00 GMT",
+                "dc_date": "2025-02-01T21:30:00Z",
+                "score": null,
+                "opponent": "at Southern Indiana"
+            },
+            {
+                "title": "SIUE vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#ugs5ofz6k8i3yqbf",
+                "description": "Men's Basketball on Feb 6, 2025 at 7:30 PM: SIUE vs. Tennessee Tech",
+                "category": "Men's Basketball",
+                "pubDate": "Fri, 07 Feb 2025 01:30:00 GMT",
+                "dc_date": "2025-02-07T01:30:00Z",
+                "score": null,
+                "opponent": "SIUE"
+            },
+            {
+                "title": "Eastern Illinois vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#xyrs81k3xds92vkz",
+                "description": "Men's Basketball on Feb 8, 2025 at 3:00 PM: Eastern Illinois vs. Tennessee Tech",
+                "category": "Men's Basketball",
+                "pubDate": "Sat, 08 Feb 2025 21:00:00 GMT",
+                "dc_date": "2025-02-08T21:00:00Z",
+                "score": null,
+                "opponent": "Eastern Illinois"
+            },
+            {
+                "title": "Tennessee Tech vs. Little Rock",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#cg3j0ttfadyruzg2",
+                "description": "Men's Basketball on Feb 13, 2025 at 7:00 PM: Tennessee Tech vs. Little Rock",
+                "category": "Men's Basketball",
+                "pubDate": "Fri, 14 Feb 2025 01:00:00 GMT",
+                "dc_date": "2025-02-14T01:00:00Z",
+                "score": null,
+                "opponent": "at Little Rock"
+            },
+            {
+                "title": "Tennessee Tech vs. Southeast Missouri",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#5f6t2hereja25g0s",
+                "description": "Men's Basketball on Feb 15, 2025 at 3:45 PM: Tennessee Tech vs. Southeast Missouri",
+                "category": "Men's Basketball",
+                "pubDate": "Sat, 15 Feb 2025 21:45:00 GMT",
+                "dc_date": "2025-02-15T21:45:00Z",
+                "score": null,
+                "opponent": "at Southeast Missouri"
+            },
+            {
+                "title": "UT Martin vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#knueydkayi6zou54",
+                "description": "Men's Basketball on Feb 20, 2025 at 7:30 PM: UT Martin vs. Tennessee Tech",
+                "category": "Men's Basketball",
+                "pubDate": "Fri, 21 Feb 2025 01:30:00 GMT",
+                "dc_date": "2025-02-21T01:30:00Z",
+                "score": null,
+                "opponent": "UT Martin"
+            },
+            {
+                "title": "Tennessee State vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#zcdligyxr16het0k",
+                "description": "Men's Basketball on Feb 22, 2025 at 3:00 PM: Tennessee State vs. Tennessee Tech",
+                "category": "Men's Basketball",
+                "pubDate": "Sat, 22 Feb 2025 21:00:00 GMT",
+                "dc_date": "2025-02-22T21:00:00Z",
+                "score": null,
+                "opponent": "Tennessee State"
+            },
+            {
+                "title": "Western Illinois vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#uq4abalbp4z9lvuc",
+                "description": "Men's Basketball on Feb 27, 2025 at 7:30 PM: Western Illinois vs. Tennessee Tech",
+                "category": "Men's Basketball",
+                "pubDate": "Fri, 28 Feb 2025 01:30:00 GMT",
+                "dc_date": "2025-02-28T01:30:00Z",
+                "score": null,
+                "opponent": "Western Illinois"
+            },
+            {
+                "title": "Lindenwood vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#0cf8mlpnw88lwuo3",
+                "description": "Men's Basketball on Mar 1, 2025 at 3:00 PM: Lindenwood vs. Tennessee Tech",
+                "category": "Men's Basketball",
+                "pubDate": "Sat, 01 Mar 2025 21:00:00 GMT",
+                "dc_date": "2025-03-01T21:00:00Z",
+                "score": null,
+                "opponent": "Lindenwood"
+            },
+            {
+                "title": "Tennessee Tech vs. TBA",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#choc4wfv1k1hws44",
+                "description": "Men's Basketball on Mar 5, 2025: Tennessee Tech vs. TBA, OVC Tournament - First Round",
+                "category": "Men's Basketball",
+                "pubDate": "Wed, 05 Mar 2025 06:00:00 GMT",
+                "dc_date": "2025-03-05T06:00:00Z",
+                "score": null,
+                "opponent": "vs. TBA @ Evansville, Ind."
+            },
+            {
+                "title": "Tennessee Tech vs. TBA",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#1b7r8mbyd3bxk9dq",
+                "description": "Men's Basketball on Mar 6, 2025: Tennessee Tech vs. TBA, OVC Tournament - Quarterfinals",
+                "category": "Men's Basketball",
+                "pubDate": "Thu, 06 Mar 2025 06:00:00 GMT",
+                "dc_date": "2025-03-06T06:00:00Z",
+                "score": null,
+                "opponent": "vs. TBA @ Evansville, Ind."
+            },
+            {
+                "title": "Tennessee Tech vs. TBA",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#rgbea0pgj0ygv1ru",
+                "description": "Men's Basketball on Mar 7, 2025: Tennessee Tech vs. TBA, OVC Tournament - Semifinals",
+                "category": "Men's Basketball",
+                "pubDate": "Fri, 07 Mar 2025 06:00:00 GMT",
+                "dc_date": "2025-03-07T06:00:00Z",
+                "score": null,
+                "opponent": "vs. TBA @ Evansville, Ind."
+            },
+            {
+                "title": "Tennessee Tech vs. TBA",
+                "link": "https://www.ttusports.com/sports/mbkb/2024-25/schedule#b0yzrl6z2tnbi36c",
+                "description": "Men's Basketball on Mar 8, 2025: Tennessee Tech vs. TBA, OVC Tournament - Championship",
+                "category": "Men's Basketball",
+                "pubDate": "Sat, 08 Mar 2025 06:00:00 GMT",
+                "dc_date": "2025-03-08T06:00:00Z",
+                "score": null,
+                "opponent": "vs. TBA @ Evansville, Ind."
+            }
+        ],
+        "cross country": [
+            {
+                "title": "at Belmont Opener, 4th place/6 (94 points)",
+                "link": "https://www.ttusports.com/sports/mxc/2024-25/schedule#rssfkvj7i5u997e1",
+                "description": "Men's Cross Country on Aug 30, 2024: at Belmont Opener, Nashville, Tenn. (hosted by Belmont, 9:10 AM, 4th place/6 (94 points)",
+                "category": "Men's Cross Country",
+                "pubDate": "Fri, 30 Aug 2024 04:00:00 GMT",
+                "dc_date": "2024-08-30T04:00:00Z",
+                "score": "4th place/6 (94 points)",
+                "opponent": "at Belmont Opener"
+            },
+            {
+                "title": "at UT Martin XC OVC Preview, 4th place/6 (110 points)",
+                "link": "https://www.ttusports.com/sports/mxc/2024-25/schedule#e9usxoub0v66u1sw",
+                "description": "Men's Cross Country on Sep 14, 2024: at UT Martin XC OVC Preview, Martin, Tenn. (hosted by UT Martin), 10:00 AM, 4th place/6 (110 points)",
+                "category": "Men's Cross Country",
+                "pubDate": "Sat, 14 Sep 2024 04:00:00 GMT",
+                "dc_date": "2024-09-14T04:00:00Z",
+                "score": "4th place/6 (110 points)",
+                "opponent": "at UT Martin XC OVC Preview"
+            },
+            {
+                "title": "at Live in Lou Classic, 26th place/28 (808 points)",
+                "link": "https://www.ttusports.com/sports/mxc/2024-25/schedule#z10y9ahczcx797p6",
+                "description": "Men's Cross Country on Oct 5, 2024: at Live in Lou Classic, Louisville, Ky. (hosted by Louisville), 8:30 AM, 26th place/28 (808 points)",
+                "category": "Men's Cross Country",
+                "pubDate": "Sat, 05 Oct 2024 04:00:00 GMT",
+                "dc_date": "2024-10-05T04:00:00Z",
+                "score": "26th place/28 (808 points)",
+                "opponent": "at Live in Lou Classic"
+            },
+            {
+                "title": "Golden Eagle Invitational, 1st place/5 (31 points)",
+                "link": "https://www.ttusports.com/sports/mxc/2024-25/schedule#rd6nasc3bz90s3ur",
+                "description": "Men's Cross Country on Oct 18, 2024: Golden Eagle Invitational, Cookeville, Tenn. (hosted by Tennessee Tech), 4:15 PM, 1st place/5 (31 points)",
+                "category": "Men's Cross Country",
+                "pubDate": "Fri, 18 Oct 2024 04:00:00 GMT",
+                "dc_date": "2024-10-18T04:00:00Z",
+                "score": "1st place/5 (31 points)",
+                "opponent": "Golden Eagle Invitational"
+            },
+            {
+                "title": "at OVC Championships, 7th place/10 (160 points)",
+                "link": "https://www.ttusports.com/sports/mxc/2024-25/schedule#rdhgjwzua4cq5pho",
+                "description": "Men's Cross Country on Nov 1, 2024: at OVC Championships, Martin, Tenn. (hosted by UT Martin), 10:00 AM, 7th place/10 (160 points)",
+                "category": "Men's Cross Country",
+                "pubDate": "Fri, 01 Nov 2024 04:00:00 GMT",
+                "dc_date": "2024-11-01T04:00:00Z",
+                "score": "7th place/10 (160 points)",
+                "opponent": "at OVC Championships"
+            },
+            {
+                "title": "at NCAA South Regional Championships, Individuals Only",
+                "link": "https://www.ttusports.com/sports/mxc/2024-25/schedule#ypjgiegbh7ornb6v",
+                "description": "Men's Cross Country on Nov 15, 2024: at NCAA South Regional Championships, Tallahassee, Fla. (hosted by Florida State), 8:30 AM, Individuals Only",
+                "category": "Men's Cross Country",
+                "pubDate": "Fri, 15 Nov 2024 05:00:00 GMT",
+                "dc_date": "2024-11-15T05:00:00Z",
+                "score": "Individuals Only",
+                "opponent": "at NCAA South Regional Championships"
+            }
+        ],
+        "football": [
+            {
+                "title": "Tennessee Tech 25, Middle Tennessee 32 Final",
+                "link": "https://www.ttusports.com/sports/fball/2024-25/schedule#zx39qwrutxdcrthh",
+                "description": "Football on Aug 31, 2024 at 6:00 PM: Tennessee Tech vs. Middle Tennessee, Final, 25-32",
+                "category": "Football",
+                "pubDate": "Sat, 31 Aug 2024 23:00:00 GMT",
+                "dc_date": "2024-08-31T23:00:00Z",
+                "score": "L, 32-25",
+                "opponent": "at Middle Tennessee"
+            },
+            {
+                "title": "Tennessee Tech 3, #1 Georgia 48 Final",
+                "link": "https://www.ttusports.com/sports/fball/2024-25/schedule#e6d469osl6x49sd3",
+                "description": "Football on Sep 7, 2024 at 1:00 PM: Tennessee Tech vs. #1 Georgia, Final, 3-48",
+                "category": "Football",
+                "pubDate": "Sat, 07 Sep 2024 18:00:00 GMT",
+                "dc_date": "2024-09-07T18:00:00Z",
+                "score": "L, 48-3",
+                "opponent": "at #1 Georgia"
+            },
+            {
+                "title": "Tennessee State 14, Tennessee Tech 24 Final",
+                "link": "https://www.ttusports.com/sports/fball/2024-25/schedule#ws944rb4zyvy8hb2",
+                "description": "Football on Sep 21, 2024 at 1:30 PM: Tennessee State vs. Tennessee Tech, Final, 14-24",
+                "category": "Football",
+                "pubDate": "Sat, 21 Sep 2024 18:30:00 GMT",
+                "dc_date": "2024-09-21T18:30:00Z",
+                "score": "W, 24-14",
+                "opponent": "Tennessee State"
+            },
+            {
+                "title": "Tennessee Tech 52, Gardner-Webb 21 Final",
+                "link": "https://www.ttusports.com/sports/fball/2024-25/schedule#wl8ca4tj8qp74jpx",
+                "description": "Football on Sep 28, 2024 at 1:00 PM: Tennessee Tech vs. Gardner-Webb, Final, 52-21",
+                "category": "Football",
+                "pubDate": "Sat, 28 Sep 2024 18:00:00 GMT",
+                "dc_date": "2024-09-28T18:00:00Z",
+                "score": "W, 52-21",
+                "opponent": "at Gardner-Webb"
+            },
+            {
+                "title": "South Carolina State 22, Tennessee Tech 20 Final",
+                "link": "https://www.ttusports.com/sports/fball/2024-25/schedule#p68r1cse9xqabtf5",
+                "description": "Football on Oct 5, 2024 at 1:30 PM: South Carolina State vs. Tennessee Tech, Final, 22-20",
+                "category": "Football",
+                "pubDate": "Sat, 05 Oct 2024 18:30:00 GMT",
+                "dc_date": "2024-10-05T18:30:00Z",
+                "score": "L, 22-20",
+                "opponent": "South Carolina State"
+            },
+            {
+                "title": "Tennessee Tech 3, #9 Southeast Missouri 34 Final",
+                "link": "https://www.ttusports.com/sports/fball/2024-25/schedule#ciim973vvcg4fcrb",
+                "description": "Football on Oct 12, 2024 at 3:00 PM: Tennessee Tech vs. #9 Southeast Missouri, Final, 3-34",
+                "category": "Football",
+                "pubDate": "Sat, 12 Oct 2024 20:00:00 GMT",
+                "dc_date": "2024-10-12T20:00:00Z",
+                "score": "L, 34-3",
+                "opponent": "at #9 Southeast Missouri"
+            },
+            {
+                "title": "Tennessee Tech 21, Western Illinois 37 Final",
+                "link": "https://www.ttusports.com/sports/fball/2024-25/schedule#jlshfne3d4xtqryi",
+                "description": "Football on Oct 19, 2024 at 3:00 PM: Tennessee Tech vs. Western Illinois, Final, 21-37",
+                "category": "Football",
+                "pubDate": "Sat, 19 Oct 2024 20:00:00 GMT",
+                "dc_date": "2024-10-19T20:00:00Z",
+                "score": "L, 37-21",
+                "opponent": "at Western Illinois"
+            },
+            {
+                "title": "Charleston Southern 23, Tennessee Tech 28 Final",
+                "link": "https://www.ttusports.com/sports/fball/2024-25/schedule#vgni0a4ea19yjc6n",
+                "description": "Football on Oct 26, 2024 at 1:30 PM: Charleston Southern vs. Tennessee Tech, Final, 23-28",
+                "category": "Football",
+                "pubDate": "Sat, 26 Oct 2024 18:30:00 GMT",
+                "dc_date": "2024-10-26T18:30:00Z",
+                "score": "W, 28-23",
+                "opponent": "Charleston Southern"
+            },
+            {
+                "title": "Lindenwood 10, Tennessee Tech 52 Final",
+                "link": "https://www.ttusports.com/sports/fball/2024-25/schedule#lb3rmcb3thxaxwvu",
+                "description": "Football on Nov 2, 2024 at 1:30 PM: Lindenwood vs. Tennessee Tech, Final, 10-52",
+                "category": "Football",
+                "pubDate": "Sat, 02 Nov 2024 18:30:00 GMT",
+                "dc_date": "2024-11-02T18:30:00Z",
+                "score": "W, 52-10",
+                "opponent": "Lindenwood"
+            },
+            {
+                "title": "Tennessee Tech 27, Samford 7 Final",
+                "link": "https://www.ttusports.com/sports/fball/2024-25/schedule#kiz3n1iiaoud0wiy",
+                "description": "Football on Nov 9, 2024 at 2:00 PM: Tennessee Tech vs. Samford, Final, 27-7",
+                "category": "Football",
+                "pubDate": "Sat, 09 Nov 2024 20:00:00 GMT",
+                "dc_date": "2024-11-09T20:00:00Z",
+                "score": "W, 27-7",
+                "opponent": "at Samford"
+            },
+            {
+                "title": "Tennessee Tech 10, #18 UT Martin 9 Final",
+                "link": "https://www.ttusports.com/sports/fball/2024-25/schedule#6r45v3wl574agd81",
+                "description": "Football on Nov 16, 2024 at 1:00 PM: Tennessee Tech vs. #18 UT Martin, Final, 10-9",
+                "category": "Football",
+                "pubDate": "Sat, 16 Nov 2024 19:00:00 GMT",
+                "dc_date": "2024-11-16T19:00:00Z",
+                "score": "W, 10-9",
+                "opponent": "at #18 UT Martin"
+            },
+            {
+                "title": "Eastern Illinois 6, Tennessee Tech 23 Final",
+                "link": "https://www.ttusports.com/sports/fball/2024-25/schedule#iwrqb80dt0zml1a8",
+                "description": "Football on Nov 23, 2024 at 12:00 PM: Eastern Illinois vs. Tennessee Tech, Final, 6-23",
+                "category": "Football",
+                "pubDate": "Sat, 23 Nov 2024 18:00:00 GMT",
+                "dc_date": "2024-11-23T18:00:00Z",
+                "score": "W, 23-6",
+                "opponent": "Eastern Illinois"
+            }
+        ],
+        "golf": [
+            {
+                "title": "at SIUE Dolenc Invitational @ Madison, Ill., T-12th place / first round",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#t9ajj69d2p86bmtq",
+                "description": "Men's Golf on Sep 9, 2024: at SIUE Dolenc Invitational @ Madison, Ill., Gateway National Golf Club (hosted by SIUE), T-12th place / first round",
+                "category": "Men's Golf",
+                "pubDate": "Mon, 09 Sep 2024 04:00:00 GMT",
+                "dc_date": "2024-09-09T04:00:00Z",
+                "score": "T-12th place / first round",
+                "opponent": "at SIUE Dolenc Invitational @ Madison, Ill."
+            },
+            {
+                "title": "at SIUE Dolenc Invitational @ Madison, Ill., 13th place / FINAL",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#n961q1zivpijfanb",
+                "description": "Men's Golf on Sep 10, 2024: at SIUE Dolenc Invitational @ Madison, Ill., Gateway National Golf Club (hosted by SIUE), 13th place / FINAL",
+                "category": "Men's Golf",
+                "pubDate": "Tue, 10 Sep 2024 04:00:00 GMT",
+                "dc_date": "2024-09-10T04:00:00Z",
+                "score": "13th place / FINAL",
+                "opponent": "at SIUE Dolenc Invitational @ Madison, Ill."
+            },
+            {
+                "title": "at Grover Page Classic @ Jackson, Tenn., 10th place / first round",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#ka4iglpkqf00vku4",
+                "description": "Men's Golf on Sep 16, 2024: at Grover Page Classic @ Jackson, Tenn., Jackson Country Club (hosted by UT Martin), 10th place / first round",
+                "category": "Men's Golf",
+                "pubDate": "Mon, 16 Sep 2024 04:00:00 GMT",
+                "dc_date": "2024-09-16T04:00:00Z",
+                "score": "10th place / first round",
+                "opponent": "at Grover Page Classic @ Jackson, Tenn."
+            },
+            {
+                "title": "at Grover Page Classic @ Jackson, Tenn., 5th place / FINAL",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#qkec8p09sksxkf77",
+                "description": "Men's Golf on Sep 17, 2024: at Grover Page Classic @ Jackson, Tenn., Jackson Country Club (hosted by UT Martin), 5th place / FINAL",
+                "category": "Men's Golf",
+                "pubDate": "Tue, 17 Sep 2024 04:00:00 GMT",
+                "dc_date": "2024-09-17T04:00:00Z",
+                "score": "5th place / FINAL",
+                "opponent": "at Grover Page Classic @ Jackson, Tenn."
+            },
+            {
+                "title": "at The Carolina Cup @ Spartanburg, S.C., 5th place / first round",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#xh9ffwj2xrq0c57s",
+                "description": "Men's Golf on Oct 6, 2024: at The Carolina Cup @ Spartanburg, S.C., The Carolina Country Club (hosted by USC Upstate), 5th place / first round",
+                "category": "Men's Golf",
+                "pubDate": "Sun, 06 Oct 2024 04:00:00 GMT",
+                "dc_date": "2024-10-06T04:00:00Z",
+                "score": "5th place / first round",
+                "opponent": "at The Carolina Cup @ Spartanburg, S.C."
+            },
+            {
+                "title": "at The Carolina Cup @ Spartanburg, S.C., 5th place / second round",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#9j2cy52uppbc4qfr",
+                "description": "Men's Golf on Oct 7, 2024: at The Carolina Cup @ Spartanburg, S.C., The Carolina Country Club (hosted by USC Upstate), 5th place / second round",
+                "category": "Men's Golf",
+                "pubDate": "Mon, 07 Oct 2024 04:00:00 GMT",
+                "dc_date": "2024-10-07T04:00:00Z",
+                "score": "5th place / second round",
+                "opponent": "at The Carolina Cup @ Spartanburg, S.C."
+            },
+            {
+                "title": "at The Carolina Cup @ Spartanburg, S.C., 6th place / FINAL",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#13nx7kio1sewfj6r",
+                "description": "Men's Golf on Oct 8, 2024: at The Carolina Cup @ Spartanburg, S.C., The Carolina Country Club (hosted by USC Upstate), 6th place / FINAL",
+                "category": "Men's Golf",
+                "pubDate": "Tue, 08 Oct 2024 04:00:00 GMT",
+                "dc_date": "2024-10-08T04:00:00Z",
+                "score": "6th place / FINAL",
+                "opponent": "at The Carolina Cup @ Spartanburg, S.C."
+            },
+            {
+                "title": "at Pinetree Intercollegiate @ Kennesaw, Ga., 10th place / second round",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#3pz9wq29654j6p8q",
+                "description": "Men's Golf on Oct 14, 2024: at Pinetree Intercollegiate @ Kennesaw, Ga., Pinetree Country Club (hosted by Kennesaw State), 10th place / second round",
+                "category": "Men's Golf",
+                "pubDate": "Mon, 14 Oct 2024 04:00:00 GMT",
+                "dc_date": "2024-10-14T04:00:00Z",
+                "score": "10th place / second round",
+                "opponent": "at Pinetree Intercollegiate @ Kennesaw, Ga."
+            },
+            {
+                "title": "at Pinetree Intercollegiate @ Kennesaw, Ga., 10th place / FINAL",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#aak8d1l6rhlmdcwo",
+                "description": "Men's Golf on Oct 15, 2024: at Pinetree Intercollegiate @ Kennesaw, Ga., Pinetree Country Club (hosted by Kennesaw State), 10th place / FINAL",
+                "category": "Men's Golf",
+                "pubDate": "Tue, 15 Oct 2024 04:00:00 GMT",
+                "dc_date": "2024-10-15T04:00:00Z",
+                "score": "10th place / FINAL",
+                "opponent": "at Pinetree Intercollegiate @ Kennesaw, Ga."
+            },
+            {
+                "title": "at Xavier Invitational presented by Gateway Logistics @ Cincinnati, Ohio, T-10th place / second round",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#b86i6629aisla0xj",
+                "description": "Men's Golf on Oct 21, 2024: at Xavier Invitational presented by Gateway Logistics @ Cincinnati, Ohio, Maketewah Country Club (hosted by Xavier), T-10th place / second round",
+                "category": "Men's Golf",
+                "pubDate": "Mon, 21 Oct 2024 04:00:00 GMT",
+                "dc_date": "2024-10-21T04:00:00Z",
+                "score": "T-10th place / second round",
+                "opponent": "at Xavier Invitational presented by Gateway Logistics @ Cincinnati, Ohio"
+            },
+            {
+                "title": "at Xavier Invitational presented by Gateway Logistics @ Cincinnati, Ohio, 11th place / FINAL",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#k7fj514oaq302ktz",
+                "description": "Men's Golf on Oct 22, 2024: at Xavier Invitational presented by Gateway Logistics @ Cincinnati, Ohio, Maketewah Country Club (hosted by Xavier), 11th place / FINAL",
+                "category": "Men's Golf",
+                "pubDate": "Tue, 22 Oct 2024 04:00:00 GMT",
+                "dc_date": "2024-10-22T04:00:00Z",
+                "score": "11th place / FINAL",
+                "opponent": "at Xavier Invitational presented by Gateway Logistics @ Cincinnati, Ohio"
+            },
+            {
+                "title": "at Peoples Golf Championship @ St. Simons Island, Ga.",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#8ba6gufr3c8259ff",
+                "description": "Men's Golf on Mar 13, 2025: at Peoples Golf Championship @ St. Simons Island, Ga., Sea Palms Resort (hosted by Western Carolina)",
+                "category": "Men's Golf",
+                "pubDate": "Thu, 13 Mar 2025 04:00:00 GMT",
+                "dc_date": "2025-03-13T04:00:00Z",
+                "score": null,
+                "opponent": "at Peoples Golf Championship @ St. Simons Island, Ga."
+            },
+            {
+                "title": "at Peoples Golf Championship @ St. Simons Island, Ga.",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#f6d80eqcncz54kqu",
+                "description": "Men's Golf on Mar 14, 2025: at Peoples Golf Championship @ St. Simons Island, Ga., Sea Palms Resort (hosted by Western Carolina)",
+                "category": "Men's Golf",
+                "pubDate": "Fri, 14 Mar 2025 04:00:00 GMT",
+                "dc_date": "2025-03-14T04:00:00Z",
+                "score": null,
+                "opponent": "at Peoples Golf Championship @ St. Simons Island, Ga."
+            },
+            {
+                "title": "at Peoples Golf Championship @ St. Simons Island, Ga.",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#ef9uguutx0tx4en5",
+                "description": "Men's Golf on Mar 15, 2025: at Peoples Golf Championship @ St. Simons Island, Ga., Sea Palms Resort (hosted by Western Carolina)",
+                "category": "Men's Golf",
+                "pubDate": "Sat, 15 Mar 2025 04:00:00 GMT",
+                "dc_date": "2025-03-15T04:00:00Z",
+                "score": null,
+                "opponent": "at Peoples Golf Championship @ St. Simons Island, Ga."
+            },
+            {
+                "title": "at Mobile Bay Intercollegiate @ Mobile, Ala.",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#ni3odt9hj1uiknf6",
+                "description": "Men's Golf on Mar 23, 2025: at Mobile Bay Intercollegiate @ Mobile, Ala., RTJ at Magnolia Cove - Falls Course (hosted by South Alabama)",
+                "category": "Men's Golf",
+                "pubDate": "Sun, 23 Mar 2025 04:00:00 GMT",
+                "dc_date": "2025-03-23T04:00:00Z",
+                "score": null,
+                "opponent": "at Mobile Bay Intercollegiate @ Mobile, Ala."
+            },
+            {
+                "title": "at Mobile Bay Intercollegiate @ Mobile, Ala.",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#i77rw78z0ag04w01",
+                "description": "Men's Golf on Mar 24, 2025: at Mobile Bay Intercollegiate @ Mobile, Ala., RTJ at Magnolia Cove - Falls Course (hosted by South Alabama)",
+                "category": "Men's Golf",
+                "pubDate": "Mon, 24 Mar 2025 04:00:00 GMT",
+                "dc_date": "2025-03-24T04:00:00Z",
+                "score": null,
+                "opponent": "at Mobile Bay Intercollegiate @ Mobile, Ala."
+            },
+            {
+                "title": "at Mobile Bay Intercollegiate @ Mobile, Ala.",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#ooxjakiinb2fjc67",
+                "description": "Men's Golf on Mar 25, 2025: at Mobile Bay Intercollegiate @ Mobile, Ala., RTJ at Magnolia Cove - Falls Course (hosted by South Alabama)",
+                "category": "Men's Golf",
+                "pubDate": "Tue, 25 Mar 2025 04:00:00 GMT",
+                "dc_date": "2025-03-25T04:00:00Z",
+                "score": null,
+                "opponent": "at Mobile Bay Intercollegiate @ Mobile, Ala."
+            },
+            {
+                "title": "at Hoosier Collegiate @ Bloomington, Ind.",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#4vbl47uqzs2kfig9",
+                "description": "Men's Golf on Apr 5, 2025: at Hoosier Collegiate @ Bloomington, Ind., The Pfau Course at Indiana University (hosted by Indiana)",
+                "category": "Men's Golf",
+                "pubDate": "Sat, 05 Apr 2025 04:00:00 GMT",
+                "dc_date": "2025-04-05T04:00:00Z",
+                "score": null,
+                "opponent": "at Hoosier Collegiate @ Bloomington, Ind."
+            },
+            {
+                "title": "at Hoosier Collegiate @ Bloomington, Ind.",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#rt4wjtv4wxwvq6t9",
+                "description": "Men's Golf on Apr 6, 2025: at Hoosier Collegiate @ Bloomington, Ind., The Pfau Course at Indiana University (hosted by Indiana)",
+                "category": "Men's Golf",
+                "pubDate": "Sun, 06 Apr 2025 04:00:00 GMT",
+                "dc_date": "2025-04-06T04:00:00Z",
+                "score": null,
+                "opponent": "at Hoosier Collegiate @ Bloomington, Ind."
+            },
+            {
+                "title": "at Mountaineer Invitational @ Bridgeport, W.Va.",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#zhuodg7cbeda2kt4",
+                "description": "Men's Golf on Apr 14, 2025: at Mountaineer Invitational @ Bridgeport, W.Va., Pete Dye Golf Club (hosted by West Virginia)",
+                "category": "Men's Golf",
+                "pubDate": "Mon, 14 Apr 2025 04:00:00 GMT",
+                "dc_date": "2025-04-14T04:00:00Z",
+                "score": null,
+                "opponent": "at Mountaineer Invitational @ Bridgeport, W.Va."
+            },
+            {
+                "title": "at Mountaineer Invitational @ Bridgeport, W.Va.",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#iptxrwry2kxoncav",
+                "description": "Men's Golf on Apr 15, 2025: at Mountaineer Invitational @ Bridgeport, W.Va., Pete Dye Golf Club (hosted by West Virginia)",
+                "category": "Men's Golf",
+                "pubDate": "Tue, 15 Apr 2025 04:00:00 GMT",
+                "dc_date": "2025-04-15T04:00:00Z",
+                "score": null,
+                "opponent": "at Mountaineer Invitational @ Bridgeport, W.Va."
+            },
+            {
+                "title": "at OVC Championships @ Cape Girardeau, Mo.",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#nifqzd11v289gf79",
+                "description": "Men's Golf on Apr 20, 2025: at OVC Championships @ Cape Girardeau, Mo., Dalhousie Golf Club (hosted by OVC)",
+                "category": "Men's Golf",
+                "pubDate": "Sun, 20 Apr 2025 04:00:00 GMT",
+                "dc_date": "2025-04-20T04:00:00Z",
+                "score": null,
+                "opponent": "at OVC Championships @ Cape Girardeau, Mo."
+            },
+            {
+                "title": "at OVC Championships @ Cape Girardeau, Mo.",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#0tmqkeh6gv9jy06t",
+                "description": "Men's Golf on Apr 21, 2025: at OVC Championships @ Cape Girardeau, Mo., Dalhousie Golf Club (hosted by OVC)",
+                "category": "Men's Golf",
+                "pubDate": "Mon, 21 Apr 2025 04:00:00 GMT",
+                "dc_date": "2025-04-21T04:00:00Z",
+                "score": null,
+                "opponent": "at OVC Championships @ Cape Girardeau, Mo."
+            },
+            {
+                "title": "at OVC Championships @ Cape Girardeau, Mo.",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#ssoqz98e64aamed0",
+                "description": "Men's Golf on Apr 22, 2025: at OVC Championships @ Cape Girardeau, Mo., Dalhousie Golf Club (hosted by OVC)",
+                "category": "Men's Golf",
+                "pubDate": "Tue, 22 Apr 2025 04:00:00 GMT",
+                "dc_date": "2025-04-22T04:00:00Z",
+                "score": null,
+                "opponent": "at OVC Championships @ Cape Girardeau, Mo."
+            },
+            {
+                "title": "at OVC Championships @ Cape Girardeau, Mo.",
+                "link": "https://www.ttusports.com/sports/mgolf/2024-25/schedule#8kcfumh82gkl831f",
+                "description": "Men's Golf on Apr 23, 2025: at OVC Championships @ Cape Girardeau, Mo., Dalhousie Golf Club (hosted by OVC)",
+                "category": "Men's Golf",
+                "pubDate": "Wed, 23 Apr 2025 04:00:00 GMT",
+                "dc_date": "2025-04-23T04:00:00Z",
+                "score": null,
+                "opponent": "at OVC Championships @ Cape Girardeau, Mo."
+            }
+        ],
+        "tennis": [
+            {
+                "title": "Tennessee Tech vs. Blue Raider Invite",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#3cvseexxov23ic38",
+                "description": "Men's Tennis on Sep 13, 2024: Tennessee Tech vs. Blue Raider Invite",
+                "category": "Men's Tennis",
+                "pubDate": "Fri, 13 Sep 2024 05:00:00 GMT",
+                "dc_date": "2024-09-13T05:00:00Z",
+                "score": null,
+                "opponent": "vs. Blue Raider Invite @ Murfreesboro, Tenn."
+            },
+            {
+                "title": "Tennessee Tech vs. Blue Raider Invite",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#aetq5hi46j7ax12k",
+                "description": "Men's Tennis on Sep 14, 2024: Tennessee Tech vs. Blue Raider Invite",
+                "category": "Men's Tennis",
+                "pubDate": "Sat, 14 Sep 2024 05:00:00 GMT",
+                "dc_date": "2024-09-14T05:00:00Z",
+                "score": null,
+                "opponent": "vs. Blue Raider Invite @ Murfreesboro, Tenn."
+            },
+            {
+                "title": "Tennessee Tech vs. Blue Raider Invite",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#ithteeevqvfm6gv0",
+                "description": "Men's Tennis on Sep 15, 2024: Tennessee Tech vs. Blue Raider Invite",
+                "category": "Men's Tennis",
+                "pubDate": "Sun, 15 Sep 2024 05:00:00 GMT",
+                "dc_date": "2024-09-15T05:00:00Z",
+                "score": null,
+                "opponent": "vs. Blue Raider Invite @ Murfreesboro, Tenn."
+            },
+            {
+                "title": "Tennessee Tech vs. Horizon League Individual Championship",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#umeic1529y43n5yt",
+                "description": "Men's Tennis on Sep 27, 2024: Tennessee Tech vs. Horizon League Individual Championship",
+                "category": "Men's Tennis",
+                "pubDate": "Fri, 27 Sep 2024 05:00:00 GMT",
+                "dc_date": "2024-09-27T05:00:00Z",
+                "score": null,
+                "opponent": "vs. Horizon League Individual Championship @ Cleveland, Ohio"
+            },
+            {
+                "title": "Tennessee Tech vs. Horizon League Individual Championship",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#cdptml4oby4spb4c",
+                "description": "Men's Tennis on Sep 28, 2024: Tennessee Tech vs. Horizon League Individual Championship",
+                "category": "Men's Tennis",
+                "pubDate": "Sat, 28 Sep 2024 05:00:00 GMT",
+                "dc_date": "2024-09-28T05:00:00Z",
+                "score": null,
+                "opponent": "vs. Horizon League Individual Championship @ Cleveland, Ohio"
+            },
+            {
+                "title": "Tennessee Tech vs. Horizon League Individual Championship",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#gn13t9ofode4yaos",
+                "description": "Men's Tennis on Sep 29, 2024: Tennessee Tech vs. Horizon League Individual Championship",
+                "category": "Men's Tennis",
+                "pubDate": "Sun, 29 Sep 2024 05:00:00 GMT",
+                "dc_date": "2024-09-29T05:00:00Z",
+                "score": null,
+                "opponent": "vs. Horizon League Individual Championship @ Cleveland, Ohio"
+            },
+            {
+                "title": "Tennessee Tech vs. Brian Coons Fall Tournament",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#wbmc85k7fgzrf3tv",
+                "description": "Men's Tennis on Oct 4, 2024: Tennessee Tech vs. Brian Coons Fall Tournament",
+                "category": "Men's Tennis",
+                "pubDate": "Fri, 04 Oct 2024 05:00:00 GMT",
+                "dc_date": "2024-10-04T05:00:00Z",
+                "score": null,
+                "opponent": "vs. Brian Coons Fall Tournament @ Clarksville, Tenn."
+            },
+            {
+                "title": "Tennessee Tech vs. Brian Coons Fall Tournament",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#8ex9x2yx7uw2ktij",
+                "description": "Men's Tennis on Oct 5, 2024: Tennessee Tech vs. Brian Coons Fall Tournament",
+                "category": "Men's Tennis",
+                "pubDate": "Sat, 05 Oct 2024 05:00:00 GMT",
+                "dc_date": "2024-10-05T05:00:00Z",
+                "score": null,
+                "opponent": "vs. Brian Coons Fall Tournament @ Clarksville, Tenn."
+            },
+            {
+                "title": "Tennessee Tech vs. ITA Ohio Valley Regional",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#yax2w6zxgjxb0u32",
+                "description": "Men's Tennis on Oct 10, 2024: Tennessee Tech vs. ITA Ohio Valley Regional",
+                "category": "Men's Tennis",
+                "pubDate": "Thu, 10 Oct 2024 05:00:00 GMT",
+                "dc_date": "2024-10-10T05:00:00Z",
+                "score": null,
+                "opponent": "vs. ITA Ohio Valley Regional @ West Lafayette, Ind."
+            },
+            {
+                "title": "Tennessee Tech vs. ITA Ohio Valley Regional",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#z0spz3li29scinl8",
+                "description": "Men's Tennis on Oct 11, 2024: Tennessee Tech vs. ITA Ohio Valley Regional",
+                "category": "Men's Tennis",
+                "pubDate": "Fri, 11 Oct 2024 05:00:00 GMT",
+                "dc_date": "2024-10-11T05:00:00Z",
+                "score": null,
+                "opponent": "vs. ITA Ohio Valley Regional @ West Lafayette, Ind."
+            },
+            {
+                "title": "Tennessee Tech vs. ITA Ohio Valley Regional",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#w7a0775ynzuwnr05",
+                "description": "Men's Tennis on Oct 12, 2024: Tennessee Tech vs. ITA Ohio Valley Regional",
+                "category": "Men's Tennis",
+                "pubDate": "Sat, 12 Oct 2024 05:00:00 GMT",
+                "dc_date": "2024-10-12T05:00:00Z",
+                "score": null,
+                "opponent": "vs. ITA Ohio Valley Regional @ West Lafayette, Ind."
+            },
+            {
+                "title": "Tennessee Tech vs. ITA Ohio Valley Regional",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#672zysceu5earioy",
+                "description": "Men's Tennis on Oct 13, 2024: Tennessee Tech vs. ITA Ohio Valley Regional",
+                "category": "Men's Tennis",
+                "pubDate": "Sun, 13 Oct 2024 05:00:00 GMT",
+                "dc_date": "2024-10-13T05:00:00Z",
+                "score": null,
+                "opponent": "vs. ITA Ohio Valley Regional @ West Lafayette, Ind."
+            },
+            {
+                "title": "Tennessee Tech vs. ITA Ohio Valley Regional",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#1x3dln5pi4hzq9rb",
+                "description": "Men's Tennis on Oct 14, 2024: Tennessee Tech vs. ITA Ohio Valley Regional",
+                "category": "Men's Tennis",
+                "pubDate": "Mon, 14 Oct 2024 05:00:00 GMT",
+                "dc_date": "2024-10-14T05:00:00Z",
+                "score": null,
+                "opponent": "vs. ITA Ohio Valley Regional @ West Lafayette, Ind."
+            },
+            {
+                "title": "Tennessee Tech vs. Coach Buck Bouldin Fall Classic",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#i13atjdc2v01e6ny",
+                "description": "Men's Tennis on Oct 18, 2024: Tennessee Tech vs. Coach Buck Bouldin Fall Classic",
+                "category": "Men's Tennis",
+                "pubDate": "Fri, 18 Oct 2024 05:00:00 GMT",
+                "dc_date": "2024-10-18T05:00:00Z",
+                "score": null,
+                "opponent": "vs. Coach Buck Bouldin Fall Classic @ Murfreesboro, Tenn."
+            },
+            {
+                "title": "Tennessee Tech vs. UTC Steve Baras Invite",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#ayxorvil1d703i0d",
+                "description": "Men's Tennis on Oct 18, 2024: Tennessee Tech vs. UTC Steve Baras Invite",
+                "category": "Men's Tennis",
+                "pubDate": "Fri, 18 Oct 2024 05:00:00 GMT",
+                "dc_date": "2024-10-18T05:00:00Z",
+                "score": null,
+                "opponent": "vs. UTC Steve Baras Invite @ Chattanooga, Tenn."
+            },
+            {
+                "title": "Tennessee Tech vs. Coach Buck Bouldin Fall Classic",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#up5y5ndh100yvhi7",
+                "description": "Men's Tennis on Oct 19, 2024: Tennessee Tech vs. Coach Buck Bouldin Fall Classic",
+                "category": "Men's Tennis",
+                "pubDate": "Sat, 19 Oct 2024 05:00:00 GMT",
+                "dc_date": "2024-10-19T05:00:00Z",
+                "score": null,
+                "opponent": "vs. Coach Buck Bouldin Fall Classic @ Murfreesboro, Tenn."
+            },
+            {
+                "title": "Tennessee Tech vs. UTC Steve Baras Invite",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#o4ql2tvfdxol4u2z",
+                "description": "Men's Tennis on Oct 19, 2024: Tennessee Tech vs. UTC Steve Baras Invite",
+                "category": "Men's Tennis",
+                "pubDate": "Sat, 19 Oct 2024 05:00:00 GMT",
+                "dc_date": "2024-10-19T05:00:00Z",
+                "score": null,
+                "opponent": "vs. UTC Steve Baras Invite @ Chattanooga, Tenn."
+            },
+            {
+                "title": "Tennessee Tech vs. Coach Buck Bouldin Fall Classic",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#fg0036t6d0o4ua6r",
+                "description": "Men's Tennis on Oct 20, 2024: Tennessee Tech vs. Coach Buck Bouldin Fall Classic",
+                "category": "Men's Tennis",
+                "pubDate": "Sun, 20 Oct 2024 05:00:00 GMT",
+                "dc_date": "2024-10-20T05:00:00Z",
+                "score": null,
+                "opponent": "vs. Coach Buck Bouldin Fall Classic @ Murfreesboro, Tenn."
+            },
+            {
+                "title": "Tennessee Tech vs. UTC Steve Baras Invite",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#7yuetri5x2vr84tn",
+                "description": "Men's Tennis on Oct 20, 2024: Tennessee Tech vs. UTC Steve Baras Invite",
+                "category": "Men's Tennis",
+                "pubDate": "Sun, 20 Oct 2024 05:00:00 GMT",
+                "dc_date": "2024-10-20T05:00:00Z",
+                "score": null,
+                "opponent": "vs. UTC Steve Baras Invite @ Chattanooga, Tenn."
+            },
+            {
+                "title": "Tennessee Tech vs. Wake Forest Invitational",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#xkrkg4xcrvcuvot3",
+                "description": "Men's Tennis on Nov 1, 2024: Tennessee Tech vs. Wake Forest Invitational",
+                "category": "Men's Tennis",
+                "pubDate": "Fri, 01 Nov 2024 05:00:00 GMT",
+                "dc_date": "2024-11-01T05:00:00Z",
+                "score": null,
+                "opponent": "vs. Wake Forest Invitational @ Winston-Salem, N.C."
+            },
+            {
+                "title": "Tennessee Tech vs. Wake Forest Invitational",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#8ro0famj04utq9am",
+                "description": "Men's Tennis on Nov 2, 2024: Tennessee Tech vs. Wake Forest Invitational",
+                "category": "Men's Tennis",
+                "pubDate": "Sat, 02 Nov 2024 05:00:00 GMT",
+                "dc_date": "2024-11-02T05:00:00Z",
+                "score": null,
+                "opponent": "vs. Wake Forest Invitational @ Winston-Salem, N.C."
+            },
+            {
+                "title": "Tennessee Tech vs. Wake Forest Invitational",
+                "link": "https://www.ttusports.com/sports/mten/2024-25/schedule#53ymu9v1w4greez9",
+                "description": "Men's Tennis on Nov 3, 2024: Tennessee Tech vs. Wake Forest Invitational",
+                "category": "Men's Tennis",
+                "pubDate": "Sun, 03 Nov 2024 05:00:00 GMT",
+                "dc_date": "2024-11-03T05:00:00Z",
+                "score": null,
+                "opponent": "vs. Wake Forest Invitational @ Winston-Salem, N.C."
+            }
+        ]
+    },
+    "women": {
+        "basketball": [
+            {
+                "title": "Lipscomb 74, Tennessee Tech 72 Final",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#s7zyd7nsqbv2i4m9",
+                "description": "Women's Basketball on Oct 29, 2024 at 5:30 PM: Lipscomb vs. Tennessee Tech, Purple Palooza | Exhibition, Final, 74-72",
+                "category": "Women's Basketball",
+                "pubDate": "Tue, 29 Oct 2024 22:30:00 GMT",
+                "dc_date": "2024-10-29T22:30:00Z",
+                "score": "L, 74-72",
+                "opponent": "Lipscomb"
+            },
+            {
+                "title": "Emory & Henry 54, Tennessee Tech 82 Final",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#llh7awzjjvv283sq",
+                "description": "Women's Basketball on Nov 4, 2024 at 6:00 PM: Emory & Henry vs. Tennessee Tech, Final, 54-82",
+                "category": "Women's Basketball",
+                "pubDate": "Tue, 05 Nov 2024 00:00:00 GMT",
+                "dc_date": "2024-11-05T00:00:00Z",
+                "score": "W, 82-54",
+                "opponent": "Emory & Henry"
+            },
+            {
+                "title": "Tennessee Tech 48, Chattanooga 46 Final",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#ss1sve3moej7hntj",
+                "description": "Women's Basketball on Nov 7, 2024 at 5:00 PM: Tennessee Tech vs. Chattanooga, Final, 48-46",
+                "category": "Women's Basketball",
+                "pubDate": "Thu, 07 Nov 2024 23:00:00 GMT",
+                "dc_date": "2024-11-07T23:00:00Z",
+                "score": "W, 48-46",
+                "opponent": "at Chattanooga"
+            },
+            {
+                "title": "North Alabama 64, Tennessee Tech 73 Final",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#ox4s9ad4z93cbwps",
+                "description": "Women's Basketball on Nov 10, 2024 at 6:00 PM: North Alabama vs. Tennessee Tech, Final, 64-73",
+                "category": "Women's Basketball",
+                "pubDate": "Mon, 11 Nov 2024 00:00:00 GMT",
+                "dc_date": "2024-11-11T00:00:00Z",
+                "score": "W, 73-64",
+                "opponent": "North Alabama"
+            },
+            {
+                "title": "Jackson State 56, Tennessee Tech 84 Final",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#karkftfrdnpryjex",
+                "description": "Women's Basketball on Nov 14, 2024 at 7:00 PM: Jackson State vs. Tennessee Tech, Final, 56-84",
+                "category": "Women's Basketball",
+                "pubDate": "Fri, 15 Nov 2024 01:00:00 GMT",
+                "dc_date": "2024-11-15T01:00:00Z",
+                "score": "W, 84-56",
+                "opponent": "Jackson State"
+            },
+            {
+                "title": "Tennessee Tech 52, Middle Tennessee 69 Final",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#r34daq5snxjzu76p",
+                "description": "Women's Basketball on Nov 19, 2024 at 6:30 PM: Tennessee Tech vs. Middle Tennessee, Final, 52-69",
+                "category": "Women's Basketball",
+                "pubDate": "Wed, 20 Nov 2024 00:30:00 GMT",
+                "dc_date": "2024-11-20T00:30:00Z",
+                "score": "L, 69-52",
+                "opponent": "at Middle Tennessee"
+            },
+            {
+                "title": "Tennessee Tech 48, ETSU 53 Final",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#9badzk8dxp3tskg2",
+                "description": "Women's Basketball on Nov 23, 2024 at 1:00 PM: Tennessee Tech vs. ETSU, Final, 48-53",
+                "category": "Women's Basketball",
+                "pubDate": "Sat, 23 Nov 2024 19:00:00 GMT",
+                "dc_date": "2024-11-23T19:00:00Z",
+                "score": "L, 53-48",
+                "opponent": "at ETSU"
+            },
+            {
+                "title": "Tennessee Tech 79, Samford 65 Final",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#n4dtasbu3k6emll0",
+                "description": "Women's Basketball on Nov 26, 2024 at 12:00 PM: Tennessee Tech vs. Samford, Final, 79-65",
+                "category": "Women's Basketball",
+                "pubDate": "Tue, 26 Nov 2024 18:00:00 GMT",
+                "dc_date": "2024-11-26T18:00:00Z",
+                "score": "W, 79-65",
+                "opponent": "at Samford"
+            },
+            {
+                "title": "Tennessee Tech 79, Colorado 91 Final",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#55o3m84xhl5hrjr0",
+                "description": "Women's Basketball on Dec 3, 2024 at 12:00 PM: Tennessee Tech vs. Colorado, Final, 79-91",
+                "category": "Women's Basketball",
+                "pubDate": "Tue, 03 Dec 2024 18:00:00 GMT",
+                "dc_date": "2024-12-03T18:00:00Z",
+                "score": "L, 91-79",
+                "opponent": "at Colorado"
+            },
+            {
+                "title": "Cumberlands (Ky.) 58, Tennessee Tech 82 Final",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#u933r9aao50qz69e",
+                "description": "Women's Basketball on Dec 6, 2024 at 11:00 AM: Cumberlands (Ky.) vs. Tennessee Tech, Education Day, Final, 58-82",
+                "category": "Women's Basketball",
+                "pubDate": "Fri, 06 Dec 2024 17:00:00 GMT",
+                "dc_date": "2024-12-06T17:00:00Z",
+                "score": "W, 82-58",
+                "opponent": "Cumberlands (Ky.)"
+            },
+            {
+                "title": "Tennessee Tech 72, Western Illinois 52 Final",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#aog2g5zmfw8rxorz",
+                "description": "Women's Basketball on Dec 17, 2024 at 5:00 PM: Tennessee Tech vs. Western Illinois, Final, 72-52",
+                "category": "Women's Basketball",
+                "pubDate": "Tue, 17 Dec 2024 23:00:00 GMT",
+                "dc_date": "2024-12-17T23:00:00Z",
+                "score": "W, 72-52",
+                "opponent": "at Western Illinois"
+            },
+            {
+                "title": "Tennessee Tech 54, Lindenwood 67 Final",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#1orxlznpqpi4x3be",
+                "description": "Women's Basketball on Dec 19, 2024 at 5:00 PM: Tennessee Tech vs. Lindenwood, Final, 54-67",
+                "category": "Women's Basketball",
+                "pubDate": "Thu, 19 Dec 2024 23:00:00 GMT",
+                "dc_date": "2024-12-19T23:00:00Z",
+                "score": "L, 67-54",
+                "opponent": "at Lindenwood"
+            },
+            {
+                "title": "Southern Indiana vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#4lltj7fv0prco059",
+                "description": "Women's Basketball on Jan 2, 2025 at 5:30 PM: Southern Indiana vs. Tennessee Tech",
+                "category": "Women's Basketball",
+                "pubDate": "Thu, 02 Jan 2025 23:30:00 GMT",
+                "dc_date": "2025-01-02T23:30:00Z",
+                "score": null,
+                "opponent": "Southern Indiana"
+            },
+            {
+                "title": "Morehead State vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#d3nzcqn5wfgycw9j",
+                "description": "Women's Basketball on Jan 4, 2025 at 1:00 PM: Morehead State vs. Tennessee Tech",
+                "category": "Women's Basketball",
+                "pubDate": "Sat, 04 Jan 2025 19:00:00 GMT",
+                "dc_date": "2025-01-04T19:00:00Z",
+                "score": null,
+                "opponent": "Morehead State"
+            },
+            {
+                "title": "Tennessee Tech vs. Eastern Illinois",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#hng41la6fn5dpzg5",
+                "description": "Women's Basketball on Jan 9, 2025 at 5:00 PM: Tennessee Tech vs. Eastern Illinois",
+                "category": "Women's Basketball",
+                "pubDate": "Thu, 09 Jan 2025 23:00:00 GMT",
+                "dc_date": "2025-01-09T23:00:00Z",
+                "score": null,
+                "opponent": "at Eastern Illinois"
+            },
+            {
+                "title": "Tennessee Tech vs. SIUE",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#8avbyod16b8f0pat",
+                "description": "Women's Basketball on Jan 11, 2025 at 1:00 PM: Tennessee Tech vs. SIUE",
+                "category": "Women's Basketball",
+                "pubDate": "Sat, 11 Jan 2025 19:00:00 GMT",
+                "dc_date": "2025-01-11T19:00:00Z",
+                "score": null,
+                "opponent": "at SIUE"
+            },
+            {
+                "title": "Southeast Missouri vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#2iee7epwbadtmcl8",
+                "description": "Women's Basketball on Jan 16, 2025 at 5:30 PM: Southeast Missouri vs. Tennessee Tech",
+                "category": "Women's Basketball",
+                "pubDate": "Thu, 16 Jan 2025 23:30:00 GMT",
+                "dc_date": "2025-01-16T23:30:00Z",
+                "score": null,
+                "opponent": "Southeast Missouri"
+            },
+            {
+                "title": "Little Rock vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#5kziqk7uz1475tl3",
+                "description": "Women's Basketball on Jan 18, 2025 at 1:00 PM: Little Rock vs. Tennessee Tech",
+                "category": "Women's Basketball",
+                "pubDate": "Sat, 18 Jan 2025 19:00:00 GMT",
+                "dc_date": "2025-01-18T19:00:00Z",
+                "score": null,
+                "opponent": "Little Rock"
+            },
+            {
+                "title": "Tennessee Tech vs. Tennessee State",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#6tem493vz31p1e29",
+                "description": "Women's Basketball on Jan 23, 2025 at 5:00 PM: Tennessee Tech vs. Tennessee State",
+                "category": "Women's Basketball",
+                "pubDate": "Thu, 23 Jan 2025 23:00:00 GMT",
+                "dc_date": "2025-01-23T23:00:00Z",
+                "score": null,
+                "opponent": "at Tennessee State"
+            },
+            {
+                "title": "Tennessee Tech vs. UT Martin",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#o06tuyictqevm730",
+                "description": "Women's Basketball on Jan 25, 2025 at 1:00 PM: Tennessee Tech vs. UT Martin",
+                "category": "Women's Basketball",
+                "pubDate": "Sat, 25 Jan 2025 19:00:00 GMT",
+                "dc_date": "2025-01-25T19:00:00Z",
+                "score": null,
+                "opponent": "at UT Martin"
+            },
+            {
+                "title": "Tennessee Tech vs. Morehead State",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#tm3oqjune1nwwfzb",
+                "description": "Women's Basketball on Jan 30, 2025 at 4:00 PM: Tennessee Tech vs. Morehead State",
+                "category": "Women's Basketball",
+                "pubDate": "Thu, 30 Jan 2025 22:00:00 GMT",
+                "dc_date": "2025-01-30T22:00:00Z",
+                "score": null,
+                "opponent": "at Morehead State"
+            },
+            {
+                "title": "Tennessee Tech vs. Southern Indiana",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#29596nzqesvt1x74",
+                "description": "Women's Basketball on Feb 1, 2025 at 1:00 PM: Tennessee Tech vs. Southern Indiana",
+                "category": "Women's Basketball",
+                "pubDate": "Sat, 01 Feb 2025 19:00:00 GMT",
+                "dc_date": "2025-02-01T19:00:00Z",
+                "score": null,
+                "opponent": "at Southern Indiana"
+            },
+            {
+                "title": "SIUE vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#okim8t8035lomy1k",
+                "description": "Women's Basketball on Feb 6, 2025 at 5:30 PM: SIUE vs. Tennessee Tech",
+                "category": "Women's Basketball",
+                "pubDate": "Thu, 06 Feb 2025 23:30:00 GMT",
+                "dc_date": "2025-02-06T23:30:00Z",
+                "score": null,
+                "opponent": "SIUE"
+            },
+            {
+                "title": "Eastern Illinois vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#lf2qw5tft1e90e3f",
+                "description": "Women's Basketball on Feb 8, 2025 at 1:00 PM: Eastern Illinois vs. Tennessee Tech",
+                "category": "Women's Basketball",
+                "pubDate": "Sat, 08 Feb 2025 19:00:00 GMT",
+                "dc_date": "2025-02-08T19:00:00Z",
+                "score": null,
+                "opponent": "Eastern Illinois"
+            },
+            {
+                "title": "Tennessee Tech vs. Little Rock",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#gjdawyrx3iy5py9w",
+                "description": "Women's Basketball on Feb 13, 2025 at 5:00 PM: Tennessee Tech vs. Little Rock",
+                "category": "Women's Basketball",
+                "pubDate": "Thu, 13 Feb 2025 23:00:00 GMT",
+                "dc_date": "2025-02-13T23:00:00Z",
+                "score": null,
+                "opponent": "at Little Rock"
+            },
+            {
+                "title": "Tennessee Tech vs. Southeast Missouri",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#qskalvntxdirurii",
+                "description": "Women's Basketball on Feb 15, 2025 at 1:30 PM: Tennessee Tech vs. Southeast Missouri",
+                "category": "Women's Basketball",
+                "pubDate": "Sat, 15 Feb 2025 19:30:00 GMT",
+                "dc_date": "2025-02-15T19:30:00Z",
+                "score": null,
+                "opponent": "at Southeast Missouri"
+            },
+            {
+                "title": "UT Martin vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#apo0b6caiibcmq5j",
+                "description": "Women's Basketball on Feb 20, 2025 at 5:30 PM: UT Martin vs. Tennessee Tech",
+                "category": "Women's Basketball",
+                "pubDate": "Thu, 20 Feb 2025 23:30:00 GMT",
+                "dc_date": "2025-02-20T23:30:00Z",
+                "score": null,
+                "opponent": "UT Martin"
+            },
+            {
+                "title": "Tennessee State vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#enh2t5fh9mu5dlqb",
+                "description": "Women's Basketball on Feb 22, 2025 at 1:00 PM: Tennessee State vs. Tennessee Tech",
+                "category": "Women's Basketball",
+                "pubDate": "Sat, 22 Feb 2025 19:00:00 GMT",
+                "dc_date": "2025-02-22T19:00:00Z",
+                "score": null,
+                "opponent": "Tennessee State"
+            },
+            {
+                "title": "Western Illinois vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#7rje0lq2dc8k0zml",
+                "description": "Women's Basketball on Feb 27, 2025 at 5:30 PM: Western Illinois vs. Tennessee Tech",
+                "category": "Women's Basketball",
+                "pubDate": "Thu, 27 Feb 2025 23:30:00 GMT",
+                "dc_date": "2025-02-27T23:30:00Z",
+                "score": null,
+                "opponent": "Western Illinois"
+            },
+            {
+                "title": "Lindenwood vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#a7hf2g8f3zskjx02",
+                "description": "Women's Basketball on Mar 1, 2025 at 1:00 PM: Lindenwood vs. Tennessee Tech",
+                "category": "Women's Basketball",
+                "pubDate": "Sat, 01 Mar 2025 19:00:00 GMT",
+                "dc_date": "2025-03-01T19:00:00Z",
+                "score": null,
+                "opponent": "Lindenwood"
+            },
+            {
+                "title": "Tennessee Tech vs. TBA",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#k6oy2ovlq3wmsbqd",
+                "description": "Women's Basketball on Mar 5, 2025: Tennessee Tech vs. TBA, Ohio Valley Conference Basketball Championships",
+                "category": "Women's Basketball",
+                "pubDate": "Wed, 05 Mar 2025 06:00:00 GMT",
+                "dc_date": "2025-03-05T06:00:00Z",
+                "score": null,
+                "opponent": "at TBA"
+            },
+            {
+                "title": "Tennessee Tech vs. TBA",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#x2aiokt2p0sru8ml",
+                "description": "Women's Basketball on Mar 6, 2025: Tennessee Tech vs. TBA, Ohio Valley Conference Basketball Championships",
+                "category": "Women's Basketball",
+                "pubDate": "Thu, 06 Mar 2025 06:00:00 GMT",
+                "dc_date": "2025-03-06T06:00:00Z",
+                "score": null,
+                "opponent": "at TBA"
+            },
+            {
+                "title": "Tennessee Tech vs. TBA",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#ob2dhcwb9s7ifofm",
+                "description": "Women's Basketball on Mar 7, 2025: Tennessee Tech vs. TBA, Ohio Valley Conference Basketball Championships",
+                "category": "Women's Basketball",
+                "pubDate": "Fri, 07 Mar 2025 06:00:00 GMT",
+                "dc_date": "2025-03-07T06:00:00Z",
+                "score": null,
+                "opponent": "at TBA"
+            },
+            {
+                "title": "Tennessee Tech vs. TBA",
+                "link": "https://www.ttusports.com/sports/wbkb/2024-25/schedule#05u2ylw7vf84atga",
+                "description": "Women's Basketball on Mar 8, 2025: Tennessee Tech vs. TBA, Ohio Valley Conference Basketball Championships",
+                "category": "Women's Basketball",
+                "pubDate": "Sat, 08 Mar 2025 06:00:00 GMT",
+                "dc_date": "2025-03-08T06:00:00Z",
+                "score": null,
+                "opponent": "at TBA"
+            }
+        ],
+        "cross country": [
+            {
+                "title": "at Belmont Opener, 3rd place/6 (68 points)",
+                "link": "https://www.ttusports.com/sports/wxc/2024-25/schedule#jgxjfg6dwauy2c1c",
+                "description": "Women's Cross Country on Aug 30, 2024: at Belmont Opener, Nashville, Tenn. (hosted by Belmont, 8:40 AM, 3rd place/6 (68 points)",
+                "category": "Women's Cross Country",
+                "pubDate": "Fri, 30 Aug 2024 04:00:00 GMT",
+                "dc_date": "2024-08-30T04:00:00Z",
+                "score": "3rd place/6 (68 points)",
+                "opponent": "at Belmont Opener"
+            },
+            {
+                "title": "at UT Martin XC OVC Preview, 2nd place/7 (49 points)",
+                "link": "https://www.ttusports.com/sports/wxc/2024-25/schedule#lvdup41pz1jtxr5f",
+                "description": "Women's Cross Country on Sep 14, 2024: at UT Martin XC OVC Preview, Martin, Tenn. (hosted by UT Martin), 9:00 AM, 2nd place/7 (49 points)",
+                "category": "Women's Cross Country",
+                "pubDate": "Sat, 14 Sep 2024 04:00:00 GMT",
+                "dc_date": "2024-09-14T04:00:00Z",
+                "score": "2nd place/7 (49 points)",
+                "opponent": "at UT Martin XC OVC Preview"
+            },
+            {
+                "title": "at Live in Lou Classic, 21st place/27 (548 points)",
+                "link": "https://www.ttusports.com/sports/wxc/2024-25/schedule#01dgarv38tg11tsc",
+                "description": "Women's Cross Country on Oct 5, 2024: at Live in Lou Classic, Louisville, Ky. (hosted by Louisville), 9:15 AM, 21st place/27 (548 points)",
+                "category": "Women's Cross Country",
+                "pubDate": "Sat, 05 Oct 2024 04:00:00 GMT",
+                "dc_date": "2024-10-05T04:00:00Z",
+                "score": "21st place/27 (548 points)",
+                "opponent": "at Live in Lou Classic"
+            },
+            {
+                "title": "Golden Eagle Invitational, 1st place/5 (28 points)",
+                "link": "https://www.ttusports.com/sports/wxc/2024-25/schedule#8t8txh2lpyje3txj",
+                "description": "Women's Cross Country on Oct 18, 2024: Golden Eagle Invitational, Cookeville, Tenn. (hosted by Tennessee Tech), 3:30 PM, 1st place/5 (28 points)",
+                "category": "Women's Cross Country",
+                "pubDate": "Fri, 18 Oct 2024 04:00:00 GMT",
+                "dc_date": "2024-10-18T04:00:00Z",
+                "score": "1st place/5 (28 points)",
+                "opponent": "Golden Eagle Invitational"
+            },
+            {
+                "title": "at OVC Championships, 3rd place/11 (86 points)",
+                "link": "https://www.ttusports.com/sports/wxc/2024-25/schedule#eo06bs7tqm8j8mqg",
+                "description": "Women's Cross Country on Nov 1, 2024: at OVC Championships, Martin, Tenn. (hosted by UT Martin), 9:00 AM, 3rd place/11 (86 points)",
+                "category": "Women's Cross Country",
+                "pubDate": "Fri, 01 Nov 2024 04:00:00 GMT",
+                "dc_date": "2024-11-01T04:00:00Z",
+                "score": "3rd place/11 (86 points)",
+                "opponent": "at OVC Championships"
+            },
+            {
+                "title": "at NCAA South Regional Championships, 21st place/31 (596 points)",
+                "link": "https://www.ttusports.com/sports/wxc/2024-25/schedule#mlr1y08wt4mpqmch",
+                "description": "Women's Cross Country on Nov 15, 2024: at NCAA South Regional Championships, Tallahassee, Fla. (hosted by Florida State), 7:30 AM, 21st place/31 (596 points)",
+                "category": "Women's Cross Country",
+                "pubDate": "Fri, 15 Nov 2024 05:00:00 GMT",
+                "dc_date": "2024-11-15T05:00:00Z",
+                "score": "21st place/31 (596 points)",
+                "opponent": "at NCAA South Regional Championships"
+            }
+        ],
+        "golf": [
+            {
+                "title": "at Golfweek Fall Challenge @ Pawley's Island, S.C., T-13th place / first round",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#c8velsxin5c18fzj",
+                "description": "Women's Golf on Sep 8, 2024: at Golfweek Fall Challenge @ Pawley's Island, S.C., Caledonia Golf & Fish Club (hosted by Golfweek), T-13th place / first round",
+                "category": "Women's Golf",
+                "pubDate": "Sun, 08 Sep 2024 04:00:00 GMT",
+                "dc_date": "2024-09-08T04:00:00Z",
+                "score": "T-13th place / first round",
+                "opponent": "at Golfweek Fall Challenge @ Pawley's Island, S.C."
+            },
+            {
+                "title": "at Golfweek Fall Challenge @ Pawley's Island, S.C., T-13th place / second round",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#hvpa6iibh7c18bvv",
+                "description": "Women's Golf on Sep 9, 2024: at Golfweek Fall Challenge @ Pawley's Island, S.C., Caledonia Golf & Fish Club (hosted by Golfweek), T-13th place / second round",
+                "category": "Women's Golf",
+                "pubDate": "Mon, 09 Sep 2024 04:00:00 GMT",
+                "dc_date": "2024-09-09T04:00:00Z",
+                "score": "T-13th place / second round",
+                "opponent": "at Golfweek Fall Challenge @ Pawley's Island, S.C."
+            },
+            {
+                "title": "at Golfweek Fall Challenge @ Pawley's Island, S.C., 13th place / FINAL",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#ixw5l4yg7uvu5phv",
+                "description": "Women's Golf on Sep 10, 2024: at Golfweek Fall Challenge @ Pawley's Island, S.C., Caledonia Golf & Fish Club (hosted by Golfweek), 13th place / FINAL",
+                "category": "Women's Golf",
+                "pubDate": "Tue, 10 Sep 2024 04:00:00 GMT",
+                "dc_date": "2024-09-10T04:00:00Z",
+                "score": "13th place / FINAL",
+                "opponent": "at Golfweek Fall Challenge @ Pawley's Island, S.C."
+            },
+            {
+                "title": "at Hoover Invite @ Hoover, Ala., T-10th place / first round",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#mhh189m56fhpry9n",
+                "description": "Women's Golf on Sep 16, 2024: at Hoover Invite @ Hoover, Ala., Hoover Country Club (hosted by UAB), T-10th place / first round",
+                "category": "Women's Golf",
+                "pubDate": "Mon, 16 Sep 2024 04:00:00 GMT",
+                "dc_date": "2024-09-16T04:00:00Z",
+                "score": "T-10th place / first round",
+                "opponent": "at Hoover Invite @ Hoover, Ala."
+            },
+            {
+                "title": "at Hoover Invite @ Hoover, Ala., 10th place / FINAL",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#33r9s9ik8cso8yoz",
+                "description": "Women's Golf on Sep 17, 2024: at Hoover Invite @ Hoover, Ala., Hoover Country Club (hosted by UAB), 10th place / FINAL",
+                "category": "Women's Golf",
+                "pubDate": "Tue, 17 Sep 2024 04:00:00 GMT",
+                "dc_date": "2024-09-17T04:00:00Z",
+                "score": "10th place / FINAL",
+                "opponent": "at Hoover Invite @ Hoover, Ala."
+            },
+            {
+                "title": "at Rocket Classic @ Port Clinton, Ohio, 8th place / second round",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#z7x9vuv778jh1mh8",
+                "description": "Women's Golf on Sep 30, 2024: at Rocket Classic @ Port Clinton, Ohio, Catawba Island Golf Club (hosted by Toledo), 8th place / second round",
+                "category": "Women's Golf",
+                "pubDate": "Mon, 30 Sep 2024 04:00:00 GMT",
+                "dc_date": "2024-09-30T04:00:00Z",
+                "score": "8th place / second round",
+                "opponent": "at Rocket Classic @ Port Clinton, Ohio"
+            },
+            {
+                "title": "at Rocket Classic @ Port Clinton, Ohio, 7th place / FINAL",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#122a22brj5x19y4g",
+                "description": "Women's Golf on Oct 1, 2024: at Rocket Classic @ Port Clinton, Ohio, Catawba Island Golf Club (hosted by Toledo), 7th place / FINAL",
+                "category": "Women's Golf",
+                "pubDate": "Tue, 01 Oct 2024 04:00:00 GMT",
+                "dc_date": "2024-10-01T04:00:00Z",
+                "score": "7th place / FINAL",
+                "opponent": "at Rocket Classic @ Port Clinton, Ohio"
+            },
+            {
+                "title": "at Diamante Intercollegiate presented by Simmons Bank @ Hot Springs, Ark., T-10th place / first round",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#s5hudog99d8rdd11",
+                "description": "Women's Golf on Oct 20, 2024: at Diamante Intercollegiate presented by Simmons Bank @ Hot Springs, Ark., Diamante Country Club (hosted by Little Rock), T-10th place / first round",
+                "category": "Women's Golf",
+                "pubDate": "Sun, 20 Oct 2024 04:00:00 GMT",
+                "dc_date": "2024-10-20T04:00:00Z",
+                "score": "T-10th place / first round",
+                "opponent": "at Diamante Intercollegiate presented by Simmons Bank @ Hot Springs, Ark."
+            },
+            {
+                "title": "at Diamante Intercollegiate presented by Simmons Bank @ Hot Springs, Ark., T-14th place / second round",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#bv74qch67zl98dqi",
+                "description": "Women's Golf on Oct 21, 2024: at Diamante Intercollegiate presented by Simmons Bank @ Hot Springs, Ark., Diamante Country Club (hosted by Little Rock), T-14th place / second round",
+                "category": "Women's Golf",
+                "pubDate": "Mon, 21 Oct 2024 04:00:00 GMT",
+                "dc_date": "2024-10-21T04:00:00Z",
+                "score": "T-14th place / second round",
+                "opponent": "at Diamante Intercollegiate presented by Simmons Bank @ Hot Springs, Ark."
+            },
+            {
+                "title": "at Diamante Intercollegiate presented by Simmons Bank @ Hot Springs, Ark., 12th place / FINAL",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#pfh5mxwgmch5dfgj",
+                "description": "Women's Golf on Oct 22, 2024: at Diamante Intercollegiate presented by Simmons Bank @ Hot Springs, Ark., Diamante Country Club (hosted by Little Rock), 12th place / FINAL",
+                "category": "Women's Golf",
+                "pubDate": "Tue, 22 Oct 2024 04:00:00 GMT",
+                "dc_date": "2024-10-22T04:00:00Z",
+                "score": "12th place / FINAL",
+                "opponent": "at Diamante Intercollegiate presented by Simmons Bank @ Hot Springs, Ark."
+            },
+            {
+                "title": "at Mercer Invitational @ Forsyth, Ga., 7th place / second round",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#7dgwp2mgp2impimf",
+                "description": "Women's Golf on Oct 28, 2024: at Mercer Invitational @ Forsyth, Ga., River Forest Golf Club (hosted by Mercer), 7th place / second round",
+                "category": "Women's Golf",
+                "pubDate": "Mon, 28 Oct 2024 04:00:00 GMT",
+                "dc_date": "2024-10-28T04:00:00Z",
+                "score": "7th place / second round",
+                "opponent": "at Mercer Invitational @ Forsyth, Ga."
+            },
+            {
+                "title": "at Mercer Invitational @ Forsyth, Ga., 6th place / FINAL",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#77b7gvi6nl49fvsd",
+                "description": "Women's Golf on Oct 29, 2024: at Mercer Invitational @ Forsyth, Ga., River Forest Golf Club (hosted by Mercer), 6th place / FINAL",
+                "category": "Women's Golf",
+                "pubDate": "Tue, 29 Oct 2024 04:00:00 GMT",
+                "dc_date": "2024-10-29T04:00:00Z",
+                "score": "6th place / FINAL",
+                "opponent": "at Mercer Invitational @ Forsyth, Ga."
+            },
+            {
+                "title": "at Huntsville.org Intercollegiate @ Huntsville, Ala.",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#lsx0x872xzbs1qvd",
+                "description": "Women's Golf on Mar 3, 2025: at Huntsville.org Intercollegiate @ Huntsville, Ala., RTJ at Hampton Cove - Highlands Course (hosted by Samford)",
+                "category": "Women's Golf",
+                "pubDate": "Mon, 03 Mar 2025 05:00:00 GMT",
+                "dc_date": "2025-03-03T05:00:00Z",
+                "score": null,
+                "opponent": "at Huntsville.org Intercollegiate @ Huntsville, Ala."
+            },
+            {
+                "title": "at Huntsville.org Intercollegiate @ Huntsville, Ala.",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#l2b8qo7mbijlcnt5",
+                "description": "Women's Golf on Mar 4, 2025: at Huntsville.org Intercollegiate @ Huntsville, Ala., RTJ at Hampton Cove - Highlands Course (hosted by Samford)",
+                "category": "Women's Golf",
+                "pubDate": "Tue, 04 Mar 2025 05:00:00 GMT",
+                "dc_date": "2025-03-04T05:00:00Z",
+                "score": null,
+                "opponent": "at Huntsville.org Intercollegiate @ Huntsville, Ala."
+            },
+            {
+                "title": "at Chris Banister Golf Classic @ Gadsden, Ala.",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#zub54umpbcnjjmvl",
+                "description": "Women's Golf on Mar 9, 2025: at Chris Banister Golf Classic @ Gadsden, Ala., RTJ at Silver Lakes (hosted by Jacksonville State)",
+                "category": "Women's Golf",
+                "pubDate": "Sun, 09 Mar 2025 05:00:00 GMT",
+                "dc_date": "2025-03-09T05:00:00Z",
+                "score": null,
+                "opponent": "at Chris Banister Golf Classic @ Gadsden, Ala."
+            },
+            {
+                "title": "at Chris Banister Golf Classic @ Gadsden, Ala.",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#k8libsp7ibg1guj8",
+                "description": "Women's Golf on Mar 10, 2025: at Chris Banister Golf Classic @ Gadsden, Ala., RTJ at Silver Lakes (hosted by Jacksonville State)",
+                "category": "Women's Golf",
+                "pubDate": "Mon, 10 Mar 2025 04:00:00 GMT",
+                "dc_date": "2025-03-10T04:00:00Z",
+                "score": null,
+                "opponent": "at Chris Banister Golf Classic @ Gadsden, Ala."
+            },
+            {
+                "title": "at Chris Banister Golf Classic @ Gadsden, Ala.",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#p0e4np6gwlggv7qz",
+                "description": "Women's Golf on Mar 11, 2025: at Chris Banister Golf Classic @ Gadsden, Ala., RTJ at Silver Lakes (hosted by Jacksonville State)",
+                "category": "Women's Golf",
+                "pubDate": "Tue, 11 Mar 2025 04:00:00 GMT",
+                "dc_date": "2025-03-11T04:00:00Z",
+                "score": null,
+                "opponent": "at Chris Banister Golf Classic @ Gadsden, Ala."
+            },
+            {
+                "title": "at Mimosa Hills Intercollegiate @ Morganton, N.C.",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#olai06fvblp5b2mo",
+                "description": "Women's Golf on Mar 31, 2025: at Mimosa Hills Intercollegiate @ Morganton, N.C., Mimosa Hills Country Club (hosted by App State)",
+                "category": "Women's Golf",
+                "pubDate": "Mon, 31 Mar 2025 04:00:00 GMT",
+                "dc_date": "2025-03-31T04:00:00Z",
+                "score": null,
+                "opponent": "at Mimosa Hills Intercollegiate @ Morganton, N.C."
+            },
+            {
+                "title": "at Mimosa Hills Intercollegiate @ Morganton, N.C.",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#jq6t3j5xedmoo456",
+                "description": "Women's Golf on Apr 1, 2025: at Mimosa Hills Intercollegiate @ Morganton, N.C., Mimosa Hills Country Club (hosted by App State)",
+                "category": "Women's Golf",
+                "pubDate": "Tue, 01 Apr 2025 04:00:00 GMT",
+                "dc_date": "2025-04-01T04:00:00Z",
+                "score": null,
+                "opponent": "at Mimosa Hills Intercollegiate @ Morganton, N.C."
+            },
+            {
+                "title": "at Tennessee Challenge @ Knoxville, Tenn.",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#zou03klywnmptrxc",
+                "description": "Women's Golf on Apr 7, 2025: at Tennessee Challenge @ Knoxville, Tenn., Fox Den Country Club (hosted by Tennessee)",
+                "category": "Women's Golf",
+                "pubDate": "Mon, 07 Apr 2025 04:00:00 GMT",
+                "dc_date": "2025-04-07T04:00:00Z",
+                "score": null,
+                "opponent": "at Tennessee Challenge @ Knoxville, Tenn."
+            },
+            {
+                "title": "at OVC Championships @ Muscle Shoals, Ala.",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#88hy49kxzv720kgo",
+                "description": "Women's Golf on Apr 13, 2025: at OVC Championships @ Muscle Shoals, Ala., RTJ at The Shoals - Fighting Joe Course (hosted by OVC)",
+                "category": "Women's Golf",
+                "pubDate": "Sun, 13 Apr 2025 04:00:00 GMT",
+                "dc_date": "2025-04-13T04:00:00Z",
+                "score": null,
+                "opponent": "at OVC Championships @ Muscle Shoals, Ala."
+            },
+            {
+                "title": "at OVC Championships @ Muscle Shoals, Ala.",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#jo7e4wujntvqes4s",
+                "description": "Women's Golf on Apr 14, 2025: at OVC Championships @ Muscle Shoals, Ala., RTJ at The Shoals - Fighting Joe Course (hosted by OVC)",
+                "category": "Women's Golf",
+                "pubDate": "Mon, 14 Apr 2025 04:00:00 GMT",
+                "dc_date": "2025-04-14T04:00:00Z",
+                "score": null,
+                "opponent": "at OVC Championships @ Muscle Shoals, Ala."
+            },
+            {
+                "title": "at OVC Championships @ Muscle Shoals, Ala.",
+                "link": "https://www.ttusports.com/sports/wgolf/2024-25/schedule#ojmaml2ufjizzzsx",
+                "description": "Women's Golf on Apr 15, 2025: at OVC Championships @ Muscle Shoals, Ala., RTJ at The Shoals - Fighting Joe Course (hosted by OVC)",
+                "category": "Women's Golf",
+                "pubDate": "Tue, 15 Apr 2025 04:00:00 GMT",
+                "dc_date": "2025-04-15T04:00:00Z",
+                "score": null,
+                "opponent": "at OVC Championships @ Muscle Shoals, Ala."
+            }
+        ],
+        "soccer": [
+            {
+                "title": "Mercer vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#elslj13fk9stcjnf",
+                "description": "Women's Soccer on Aug 4, 2024 at 2:00 PM: Mercer vs. Tennessee Tech, Exhibition, Cancelled",
+                "category": "Women's Soccer",
+                "pubDate": "Sun, 04 Aug 2024 19:00:00 GMT",
+                "dc_date": "2024-08-04T19:00:00Z",
+                "score": null,
+                "opponent": "Mercer"
+            },
+            {
+                "title": "Tennessee Tech vs. Georgia",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#6htfa6r4ha76eap3",
+                "description": "Women's Soccer on Aug 10, 2024 at 10:00 AM: Tennessee Tech vs. Georgia, Exhibition",
+                "category": "Women's Soccer",
+                "pubDate": "Sat, 10 Aug 2024 15:00:00 GMT",
+                "dc_date": "2024-08-10T15:00:00Z",
+                "score": null,
+                "opponent": "at Georgia"
+            },
+            {
+                "title": "Tennessee Tech 1, Samford 3 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#nd5uc9hxzzb4ai8a",
+                "description": "Women's Soccer on Aug 15, 2024 at 6:00 PM: Tennessee Tech vs. Samford, Final, 1-3",
+                "category": "Women's Soccer",
+                "pubDate": "Thu, 15 Aug 2024 23:00:00 GMT",
+                "dc_date": "2024-08-15T23:00:00Z",
+                "score": "L, 3-1",
+                "opponent": "at Samford"
+            },
+            {
+                "title": "Miami (OH) 2, Tennessee Tech 2 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#0g5pe3zvhj9tx1hs",
+                "description": "Women's Soccer on Aug 18, 2024 at 1:00 PM: Miami (OH) vs. Tennessee Tech, Final, 2-2",
+                "category": "Women's Soccer",
+                "pubDate": "Sun, 18 Aug 2024 18:00:00 GMT",
+                "dc_date": "2024-08-18T18:00:00Z",
+                "score": "T, 2-2",
+                "opponent": "Miami (OH)"
+            },
+            {
+                "title": "Saint Mary's (CA) 4, Tennessee Tech 0 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#gcdyr22tn2vmu536",
+                "description": "Women's Soccer on Aug 22, 2024 at 7:00 PM: Saint Mary's (CA) vs. Tennessee Tech, Final, 4-0",
+                "category": "Women's Soccer",
+                "pubDate": "Fri, 23 Aug 2024 00:00:00 GMT",
+                "dc_date": "2024-08-23T00:00:00Z",
+                "score": "L, 4-0",
+                "opponent": "Saint Mary's (CA)"
+            },
+            {
+                "title": "Tennessee Tech 2, Middle Tennessee 3 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#z15quna4kjjsqc49",
+                "description": "Women's Soccer on Aug 25, 2024 at 5:00 PM: Tennessee Tech vs. Middle Tennessee, Final, 2-3",
+                "category": "Women's Soccer",
+                "pubDate": "Sun, 25 Aug 2024 22:00:00 GMT",
+                "dc_date": "2024-08-25T22:00:00Z",
+                "score": "L, 3-2",
+                "opponent": "at Middle Tennessee"
+            },
+            {
+                "title": "Tennessee Tech 0, Mississippi State 1 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#efkwfxfaubwg69lp",
+                "description": "Women's Soccer on Aug 29, 2024 at 6:30 PM: Tennessee Tech vs. Mississippi State, Final, 0-1",
+                "category": "Women's Soccer",
+                "pubDate": "Thu, 29 Aug 2024 23:30:00 GMT",
+                "dc_date": "2024-08-29T23:30:00Z",
+                "score": "L, 1-0",
+                "opponent": "at Mississippi State"
+            },
+            {
+                "title": "Columbia 4, Tennessee Tech 4 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#0mw85sv2aruk6ush",
+                "description": "Women's Soccer on Sep 1, 2024 at 6:00 PM: Columbia vs. Tennessee Tech, Final, 4-4",
+                "category": "Women's Soccer",
+                "pubDate": "Sun, 01 Sep 2024 23:00:00 GMT",
+                "dc_date": "2024-09-01T23:00:00Z",
+                "score": "T, 4-4",
+                "opponent": "Columbia"
+            },
+            {
+                "title": "Tennessee Tech 1, Chattanooga 1 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#bogyjuid12yke7x3",
+                "description": "Women's Soccer on Sep 5, 2024 at 5:00 PM: Tennessee Tech vs. Chattanooga, Final, 1-1",
+                "category": "Women's Soccer",
+                "pubDate": "Thu, 05 Sep 2024 22:00:00 GMT",
+                "dc_date": "2024-09-05T22:00:00Z",
+                "score": "T, 1-1",
+                "opponent": "at Chattanooga"
+            },
+            {
+                "title": "South Alabama 3, Tennessee Tech 2 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#7om783pzlava5zvk",
+                "description": "Women's Soccer on Sep 8, 2024 at 12:00 PM: South Alabama vs. Tennessee Tech, Final, 3-2",
+                "category": "Women's Soccer",
+                "pubDate": "Sun, 08 Sep 2024 17:00:00 GMT",
+                "dc_date": "2024-09-08T17:00:00Z",
+                "score": "L, 3-2",
+                "opponent": "South Alabama"
+            },
+            {
+                "title": "Belmont 3, Tennessee Tech 1 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#a7yi8kdod9tg0mfm",
+                "description": "Women's Soccer on Sep 12, 2024 at 6:30 PM: Belmont vs. Tennessee Tech, Final, 3-1",
+                "category": "Women's Soccer",
+                "pubDate": "Thu, 12 Sep 2024 23:30:00 GMT",
+                "dc_date": "2024-09-12T23:30:00Z",
+                "score": "L, 3-1",
+                "opponent": "Belmont"
+            },
+            {
+                "title": "Tennessee Tech 1, Furman 1 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#wvjk23gzk5zeefz7",
+                "description": "Women's Soccer on Sep 15, 2024 at 1:00 PM: Tennessee Tech vs. Furman, Final, 1-1",
+                "category": "Women's Soccer",
+                "pubDate": "Sun, 15 Sep 2024 18:00:00 GMT",
+                "dc_date": "2024-09-15T18:00:00Z",
+                "score": "T, 1-1",
+                "opponent": "at Furman"
+            },
+            {
+                "title": "Tennessee Tech 0, Little Rock 1 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#deeb7q87j3tfj335",
+                "description": "Women's Soccer on Sep 22, 2024 at 12:00 PM: Tennessee Tech vs. Little Rock, Final, 0-1",
+                "category": "Women's Soccer",
+                "pubDate": "Sun, 22 Sep 2024 17:00:00 GMT",
+                "dc_date": "2024-09-22T17:00:00Z",
+                "score": "L, 1-0",
+                "opponent": "at Little Rock"
+            },
+            {
+                "title": "Southeast Missouri 0, Tennessee Tech 3 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#8xhc49lkdpm47cz8",
+                "description": "Women's Soccer on Sep 26, 2024 at 12:00 PM: Southeast Missouri vs. Tennessee Tech, Final, 0-3",
+                "category": "Women's Soccer",
+                "pubDate": "Thu, 26 Sep 2024 17:00:00 GMT",
+                "dc_date": "2024-09-26T17:00:00Z",
+                "score": "W, 3-0",
+                "opponent": "Southeast Missouri"
+            },
+            {
+                "title": "Tennessee Tech 2, UT Martin 0 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#doueq4f8q6k3xtv5",
+                "description": "Women's Soccer on Sep 29, 2024 at 5:00 PM: Tennessee Tech vs. UT Martin, Final, 2-0",
+                "category": "Women's Soccer",
+                "pubDate": "Sun, 29 Sep 2024 22:00:00 GMT",
+                "dc_date": "2024-09-29T22:00:00Z",
+                "score": "W, 2-0",
+                "opponent": "at UT Martin"
+            },
+            {
+                "title": "Morehead State 0, Tennessee Tech 1 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#o940zzeuxcuy7v62",
+                "description": "Women's Soccer on Oct 3, 2024 at 7:00 PM: Morehead State vs. Tennessee Tech, Final, 0-1",
+                "category": "Women's Soccer",
+                "pubDate": "Fri, 04 Oct 2024 00:00:00 GMT",
+                "dc_date": "2024-10-04T00:00:00Z",
+                "score": "W, 1-0",
+                "opponent": "Morehead State"
+            },
+            {
+                "title": "Tennessee Tech 4, Southern Indiana 1 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#z7ju9rgdubjwkd3f",
+                "description": "Women's Soccer on Oct 6, 2024 at 1:00 PM: Tennessee Tech vs. Southern Indiana, Final, 4-1",
+                "category": "Women's Soccer",
+                "pubDate": "Sun, 06 Oct 2024 18:00:00 GMT",
+                "dc_date": "2024-10-06T18:00:00Z",
+                "score": "W, 4-1",
+                "opponent": "at Southern Indiana"
+            },
+            {
+                "title": "SIUE 1, Tennessee Tech 1 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#113vj9f5lzwb7vww",
+                "description": "Women's Soccer on Oct 13, 2024 at 1:00 PM: SIUE vs. Tennessee Tech, Final, 1-1",
+                "category": "Women's Soccer",
+                "pubDate": "Sun, 13 Oct 2024 18:00:00 GMT",
+                "dc_date": "2024-10-13T18:00:00Z",
+                "score": "T, 1-1",
+                "opponent": "SIUE"
+            },
+            {
+                "title": "Tennessee Tech 1, Eastern Illinois 2 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#altpp25geaeeddbq",
+                "description": "Women's Soccer on Oct 17, 2024 at 3:00 PM: Tennessee Tech vs. Eastern Illinois, Final, 1-2",
+                "category": "Women's Soccer",
+                "pubDate": "Thu, 17 Oct 2024 20:00:00 GMT",
+                "dc_date": "2024-10-17T20:00:00Z",
+                "score": "L, 2-1",
+                "opponent": "at Eastern Illinois"
+            },
+            {
+                "title": "Tennessee Tech 3, Western Illinois 1 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#rb8i8qk9ttcpzgqn",
+                "description": "Women's Soccer on Oct 20, 2024 at 12:00 PM: Tennessee Tech vs. Western Illinois, Final, 3-1",
+                "category": "Women's Soccer",
+                "pubDate": "Sun, 20 Oct 2024 17:00:00 GMT",
+                "dc_date": "2024-10-20T17:00:00Z",
+                "score": "W, 3-1",
+                "opponent": "at Western Illinois"
+            },
+            {
+                "title": "Lindenwood 0, Tennessee Tech 2 Final",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#ajxkid5n5bdfjvd5",
+                "description": "Women's Soccer on Oct 27, 2024 at 1:00 PM: Lindenwood vs. Tennessee Tech, Final, 0-2",
+                "category": "Women's Soccer",
+                "pubDate": "Sun, 27 Oct 2024 18:00:00 GMT",
+                "dc_date": "2024-10-27T18:00:00Z",
+                "score": "W, 2-0",
+                "opponent": "Lindenwood"
+            },
+            {
+                "title": "Morehead State 0, Tennessee Tech 0 Final - PK Away",
+                "link": "https://www.ttusports.com/sports/wsoc/2024-25/schedule#fgoizlmmqzrr0ru8",
+                "description": "Women's Soccer on Nov 7, 2024 at 12:00 PM: Morehead State vs. Tennessee Tech, OVC Tournament - Semifinals, Final - PK Away, 0-0",
+                "category": "Women's Soccer",
+                "pubDate": "Thu, 07 Nov 2024 18:00:00 GMT",
+                "dc_date": "2024-11-07T18:00:00Z",
+                "score": "T, 0-0",
+                "opponent": "Morehead State"
+            }
+        ],
+        "softball": [
+            {
+                "title": "Tennessee Tech vs. South Carolina State",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#x7tkj5xbe4f8nfyz",
+                "description": "Softball on Feb 7, 2025 at 12:00 PM: Tennessee Tech vs. South Carolina State, Furman Paladin Invitational",
+                "category": "Softball",
+                "pubDate": "Fri, 07 Feb 2025 17:00:00 GMT",
+                "dc_date": "2025-02-07T17:00:00Z",
+                "score": null,
+                "opponent": "vs. South Carolina State @ Greeneville, S.C."
+            },
+            {
+                "title": "Tennessee Tech vs. Stonehill",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#62mi7s4yxnspq7od",
+                "description": "Softball on Feb 7, 2025 at 2:30 PM: Tennessee Tech vs. Stonehill, Furman Paladin Invitational",
+                "category": "Softball",
+                "pubDate": "Fri, 07 Feb 2025 19:30:00 GMT",
+                "dc_date": "2025-02-07T19:30:00Z",
+                "score": null,
+                "opponent": "vs. Stonehill @ Greeneville, S.C."
+            },
+            {
+                "title": "Tennessee Tech vs. South Carolina State",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#lt1nghjqbjoqbgc0",
+                "description": "Softball on Feb 8, 2025 at 9:30 AM: Tennessee Tech vs. South Carolina State, Furman Paladin Invitational",
+                "category": "Softball",
+                "pubDate": "Sat, 08 Feb 2025 14:30:00 GMT",
+                "dc_date": "2025-02-08T14:30:00Z",
+                "score": null,
+                "opponent": "vs. South Carolina State @ Greeneville, S.C."
+            },
+            {
+                "title": "Tennessee Tech vs. Evansville",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#hrsjt2gya17zdzqz",
+                "description": "Softball on Feb 8, 2025 at 2:30 PM: Tennessee Tech vs. Evansville, Furman Paladin Invitational",
+                "category": "Softball",
+                "pubDate": "Sat, 08 Feb 2025 19:30:00 GMT",
+                "dc_date": "2025-02-08T19:30:00Z",
+                "score": null,
+                "opponent": "vs. Evansville @ Greeneville, S.C."
+            },
+            {
+                "title": "Tennessee Tech vs. Evansville",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#ky51ed8hspzgvowo",
+                "description": "Softball on Feb 9, 2025 at 10:50 AM: Tennessee Tech vs. Evansville, Furman Paladin Invitational",
+                "category": "Softball",
+                "pubDate": "Sun, 09 Feb 2025 15:50:00 GMT",
+                "dc_date": "2025-02-09T15:50:00Z",
+                "score": null,
+                "opponent": "vs. Evansville @ Greeneville, S.C."
+            },
+            {
+                "title": "Tennessee Tech vs. Army West Point",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#yxgbdoj4hyd4vu93",
+                "description": "Softball on Feb 14, 2025 at 12:30 PM: Tennessee Tech vs. Army West Point, Army Tournament",
+                "category": "Softball",
+                "pubDate": "Fri, 14 Feb 2025 17:30:00 GMT",
+                "dc_date": "2025-02-14T17:30:00Z",
+                "score": null,
+                "opponent": "vs. Army West Point @ Columbus, Ga."
+            },
+            {
+                "title": "Tennessee Tech vs. Syracuse",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#20d8rnrnduy8orzs",
+                "description": "Softball on Feb 14, 2025 at 5:00 PM: Tennessee Tech vs. Syracuse, Army Tournament",
+                "category": "Softball",
+                "pubDate": "Fri, 14 Feb 2025 22:00:00 GMT",
+                "dc_date": "2025-02-14T22:00:00Z",
+                "score": null,
+                "opponent": "vs. Syracuse @ Columbus, Ga."
+            },
+            {
+                "title": "Tennessee Tech vs. Army West Point",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#i5q4bq4dg021fvx3",
+                "description": "Softball on Feb 15, 2025 at 10:00 AM: Tennessee Tech vs. Army West Point, Army Tournament",
+                "category": "Softball",
+                "pubDate": "Sat, 15 Feb 2025 15:00:00 GMT",
+                "dc_date": "2025-02-15T15:00:00Z",
+                "score": null,
+                "opponent": "vs. Army West Point @ Columbus, Ga."
+            },
+            {
+                "title": "Tennessee Tech vs. Syracuse",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#eywdujxw1sl9hqnm",
+                "description": "Softball on Feb 15, 2025 at 3:00 PM: Tennessee Tech vs. Syracuse, Army Tournament",
+                "category": "Softball",
+                "pubDate": "Sat, 15 Feb 2025 20:00:00 GMT",
+                "dc_date": "2025-02-15T20:00:00Z",
+                "score": null,
+                "opponent": "vs. Syracuse @ Columbus, Ga."
+            },
+            {
+                "title": "Tennessee Tech vs. LIU",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#lgfoqf5avo4ow0sc",
+                "description": "Softball on Feb 16, 2025 at 12:30 PM: Tennessee Tech vs. LIU, Army Tournament",
+                "category": "Softball",
+                "pubDate": "Sun, 16 Feb 2025 17:30:00 GMT",
+                "dc_date": "2025-02-16T17:30:00Z",
+                "score": null,
+                "opponent": "vs. LIU @ Columbus, Ga."
+            },
+            {
+                "title": "Tennessee Tech vs. Towson",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#lbat4y2lao4vw3jh",
+                "description": "Softball on Feb 21, 2025 at 3:00 PM: Tennessee Tech vs. Towson, UNCG Invitational",
+                "category": "Softball",
+                "pubDate": "Fri, 21 Feb 2025 20:00:00 GMT",
+                "dc_date": "2025-02-21T20:00:00Z",
+                "score": null,
+                "opponent": "vs. Towson @ Greensboro, N.C."
+            },
+            {
+                "title": "Tennessee Tech vs. George Washington",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#ky4fu63qyoeua7zw",
+                "description": "Softball on Feb 21, 2025 at 5:30 PM: Tennessee Tech vs. George Washington, UNCG Invitational",
+                "category": "Softball",
+                "pubDate": "Fri, 21 Feb 2025 22:30:00 GMT",
+                "dc_date": "2025-02-21T22:30:00Z",
+                "score": null,
+                "opponent": "vs. George Washington @ Greensboro, N.C."
+            },
+            {
+                "title": "Tennessee Tech vs. UNCG",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#1dezy8rg7lgxq0t1",
+                "description": "Softball on Feb 22, 2025 at 12:30 PM: Tennessee Tech vs. UNCG, UNCG Invitational",
+                "category": "Softball",
+                "pubDate": "Sat, 22 Feb 2025 17:30:00 GMT",
+                "dc_date": "2025-02-22T17:30:00Z",
+                "score": null,
+                "opponent": "at UNCG"
+            },
+            {
+                "title": "Tennessee Tech vs. Iona",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#7n5vyqqfpsqcsoww",
+                "description": "Softball on Feb 22, 2025 at 3:00 PM: Tennessee Tech vs. Iona, UNCG Invitational",
+                "category": "Softball",
+                "pubDate": "Sat, 22 Feb 2025 20:00:00 GMT",
+                "dc_date": "2025-02-22T20:00:00Z",
+                "score": null,
+                "opponent": "vs. Iona @ Greensboro, N.C."
+            },
+            {
+                "title": "Tennessee Tech vs. George Washington",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#i5hsd5j9hmkjy21j",
+                "description": "Softball on Feb 23, 2025 at 12:30 PM: Tennessee Tech vs. George Washington, UNCG Invitational",
+                "category": "Softball",
+                "pubDate": "Sun, 23 Feb 2025 17:30:00 GMT",
+                "dc_date": "2025-02-23T17:30:00Z",
+                "score": null,
+                "opponent": "vs. George Washington @ Greensboro, N.C."
+            },
+            {
+                "title": "Tennessee Tech vs. Evansville",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#9tzzjvo8uwhk8c3d",
+                "description": "Softball on Feb 28, 2025 at 12:30 PM: Tennessee Tech vs. Evansville, Hilltopper Spring Fling",
+                "category": "Softball",
+                "pubDate": "Fri, 28 Feb 2025 18:30:00 GMT",
+                "dc_date": "2025-02-28T18:30:00Z",
+                "score": null,
+                "opponent": "vs. Evansville @ Bowling Green, Ky."
+            },
+            {
+                "title": "Tennessee Tech vs. WKU",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#7jlvam4daqw5eobz",
+                "description": "Softball on Feb 28, 2025 at 5:30 PM: Tennessee Tech vs. WKU, Hilltopper Spring Fling",
+                "category": "Softball",
+                "pubDate": "Fri, 28 Feb 2025 23:30:00 GMT",
+                "dc_date": "2025-02-28T23:30:00Z",
+                "score": null,
+                "opponent": "at WKU"
+            },
+            {
+                "title": "Tennessee Tech vs. Kentucky",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#wf0jnku0v0fswjeb",
+                "description": "Softball on Mar 1, 2025 at 10:00 AM: Tennessee Tech vs. Kentucky, Hilltopper Spring Fling",
+                "category": "Softball",
+                "pubDate": "Sat, 01 Mar 2025 16:00:00 GMT",
+                "dc_date": "2025-03-01T16:00:00Z",
+                "score": null,
+                "opponent": "vs. Kentucky @ Bowling Green, Ky."
+            },
+            {
+                "title": "Tennessee Tech vs. Evansville",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#213xyqfumfo00vhb",
+                "description": "Softball on Mar 1, 2025 at 5:30 PM: Tennessee Tech vs. Evansville, Hilltopper Spring Fling",
+                "category": "Softball",
+                "pubDate": "Sat, 01 Mar 2025 23:30:00 GMT",
+                "dc_date": "2025-03-01T23:30:00Z",
+                "score": null,
+                "opponent": "vs. Evansville @ Bowling Green, Ky."
+            },
+            {
+                "title": "Tennessee Tech vs. WKU",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#eceo8910rwbha9el",
+                "description": "Softball on Mar 2, 2025 at 12:30 PM: Tennessee Tech vs. WKU, Hilltopper Spring Fling",
+                "category": "Softball",
+                "pubDate": "Sun, 02 Mar 2025 18:30:00 GMT",
+                "dc_date": "2025-03-02T18:30:00Z",
+                "score": null,
+                "opponent": "at WKU"
+            },
+            {
+                "title": "Bellarmine vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#fd57k1giae3kkopz",
+                "description": "Softball on Mar 5, 2025 at 3:00 PM: Bellarmine vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Wed, 05 Mar 2025 21:00:00 GMT",
+                "dc_date": "2025-03-05T21:00:00Z",
+                "score": null,
+                "opponent": "Bellarmine"
+            },
+            {
+                "title": "Tennessee State vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#b7g6pd7sftk45nm5",
+                "description": "Softball on Mar 8, 2025 at 12:00 PM: Tennessee State vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Sat, 08 Mar 2025 18:00:00 GMT",
+                "dc_date": "2025-03-08T18:00:00Z",
+                "score": null,
+                "opponent": "Tennessee State"
+            },
+            {
+                "title": "Tennessee State vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#ycnca5ilwtz39p5g",
+                "description": "Softball on Mar 8, 2025 at 2:00 PM: Tennessee State vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Sat, 08 Mar 2025 20:00:00 GMT",
+                "dc_date": "2025-03-08T20:00:00Z",
+                "score": null,
+                "opponent": "Tennessee State"
+            },
+            {
+                "title": "Tennessee State vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#hjuncmqmqh0q25yz",
+                "description": "Softball on Mar 9, 2025 at 12:00 PM: Tennessee State vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Sun, 09 Mar 2025 17:00:00 GMT",
+                "dc_date": "2025-03-09T17:00:00Z",
+                "score": null,
+                "opponent": "Tennessee State"
+            },
+            {
+                "title": "North Dakota vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#jc0u8t4np7qtz3hg",
+                "description": "Softball on Mar 11, 2025 at 4:00 PM: North Dakota vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Tue, 11 Mar 2025 21:00:00 GMT",
+                "dc_date": "2025-03-11T21:00:00Z",
+                "score": null,
+                "opponent": "North Dakota"
+            },
+            {
+                "title": "Tennessee Tech vs. SIUE",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#ds9uhvnbgfkskig4",
+                "description": "Softball on Mar 15, 2025 at 1:00 PM: Tennessee Tech vs. SIUE",
+                "category": "Softball",
+                "pubDate": "Sat, 15 Mar 2025 18:00:00 GMT",
+                "dc_date": "2025-03-15T18:00:00Z",
+                "score": null,
+                "opponent": "at SIUE"
+            },
+            {
+                "title": "Tennessee Tech vs. SIUE",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#vsrbj49xooul3rnh",
+                "description": "Softball on Mar 15, 2025 at 3:00 PM: Tennessee Tech vs. SIUE",
+                "category": "Softball",
+                "pubDate": "Sat, 15 Mar 2025 20:00:00 GMT",
+                "dc_date": "2025-03-15T20:00:00Z",
+                "score": null,
+                "opponent": "at SIUE"
+            },
+            {
+                "title": "Tennessee Tech vs. SIUE",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#cqvzshyrr55yo9sp",
+                "description": "Softball on Mar 16, 2025 at 1:00 PM: Tennessee Tech vs. SIUE",
+                "category": "Softball",
+                "pubDate": "Sun, 16 Mar 2025 18:00:00 GMT",
+                "dc_date": "2025-03-16T18:00:00Z",
+                "score": null,
+                "opponent": "at SIUE"
+            },
+            {
+                "title": "Tennessee Tech vs. North Alabama",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#bet9zwcg7rt2vsfw",
+                "description": "Softball on Mar 18, 2025 at 3:00 PM: Tennessee Tech vs. North Alabama",
+                "category": "Softball",
+                "pubDate": "Tue, 18 Mar 2025 20:00:00 GMT",
+                "dc_date": "2025-03-18T20:00:00Z",
+                "score": null,
+                "opponent": "at North Alabama"
+            },
+            {
+                "title": "Western Illinois vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#m9ys5yai1ydzli5a",
+                "description": "Softball on Mar 22, 2025 at 12:00 PM: Western Illinois vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Sat, 22 Mar 2025 17:00:00 GMT",
+                "dc_date": "2025-03-22T17:00:00Z",
+                "score": null,
+                "opponent": "Western Illinois"
+            },
+            {
+                "title": "Western Illinois vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#dv3ck6quz0z6tcu0",
+                "description": "Softball on Mar 22, 2025 at 2:00 PM: Western Illinois vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Sat, 22 Mar 2025 19:00:00 GMT",
+                "dc_date": "2025-03-22T19:00:00Z",
+                "score": null,
+                "opponent": "Western Illinois"
+            },
+            {
+                "title": "Western Illinois vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#ehq7gxqf6n8qhh7j",
+                "description": "Softball on Mar 23, 2025 at 12:00 PM: Western Illinois vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Sun, 23 Mar 2025 17:00:00 GMT",
+                "dc_date": "2025-03-23T17:00:00Z",
+                "score": null,
+                "opponent": "Western Illinois"
+            },
+            {
+                "title": "Chattanooga vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#4tp1gp5h9lv9205q",
+                "description": "Softball on Mar 25, 2025 at 4:00 PM: Chattanooga vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Tue, 25 Mar 2025 21:00:00 GMT",
+                "dc_date": "2025-03-25T21:00:00Z",
+                "score": null,
+                "opponent": "Chattanooga"
+            },
+            {
+                "title": "Tennessee Tech vs. Southern Indiana",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#a6q487rhnqnvmrbj",
+                "description": "Softball on Mar 29, 2025 at 3:00 PM: Tennessee Tech vs. Southern Indiana",
+                "category": "Softball",
+                "pubDate": "Sat, 29 Mar 2025 20:00:00 GMT",
+                "dc_date": "2025-03-29T20:00:00Z",
+                "score": null,
+                "opponent": "at Southern Indiana"
+            },
+            {
+                "title": "Tennessee Tech vs. Southern Indiana",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#uj09a7aaccnxrml5",
+                "description": "Softball on Mar 30, 2025 at 12:00 PM: Tennessee Tech vs. Southern Indiana",
+                "category": "Softball",
+                "pubDate": "Sun, 30 Mar 2025 17:00:00 GMT",
+                "dc_date": "2025-03-30T17:00:00Z",
+                "score": null,
+                "opponent": "at Southern Indiana"
+            },
+            {
+                "title": "Tennessee Tech vs. Southern Indiana",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#u47l45mxj6zvji1j",
+                "description": "Softball on Mar 30, 2025 at 2:00 PM: Tennessee Tech vs. Southern Indiana",
+                "category": "Softball",
+                "pubDate": "Sun, 30 Mar 2025 19:00:00 GMT",
+                "dc_date": "2025-03-30T19:00:00Z",
+                "score": null,
+                "opponent": "at Southern Indiana"
+            },
+            {
+                "title": "Eastern Illinois vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#vvw4a1wgnjgenbmk",
+                "description": "Softball on Apr 5, 2025 at 12:00 PM: Eastern Illinois vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Sat, 05 Apr 2025 17:00:00 GMT",
+                "dc_date": "2025-04-05T17:00:00Z",
+                "score": null,
+                "opponent": "Eastern Illinois"
+            },
+            {
+                "title": "Eastern Illinois vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#m6pzwjf2fhto63ve",
+                "description": "Softball on Apr 5, 2025 at 2:00 PM: Eastern Illinois vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Sat, 05 Apr 2025 19:00:00 GMT",
+                "dc_date": "2025-04-05T19:00:00Z",
+                "score": null,
+                "opponent": "Eastern Illinois"
+            },
+            {
+                "title": "Eastern Illinois vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#frdigtfiamgacv8d",
+                "description": "Softball on Apr 6, 2025 at 12:00 PM: Eastern Illinois vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Sun, 06 Apr 2025 17:00:00 GMT",
+                "dc_date": "2025-04-06T17:00:00Z",
+                "score": null,
+                "opponent": "Eastern Illinois"
+            },
+            {
+                "title": "Georgia State vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#0ulllyibq1pgd4d0",
+                "description": "Softball on Apr 8, 2025 at 5:00 PM: Georgia State vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Tue, 08 Apr 2025 22:00:00 GMT",
+                "dc_date": "2025-04-08T22:00:00Z",
+                "score": null,
+                "opponent": "Georgia State"
+            },
+            {
+                "title": "Tennessee Tech vs. UT Martin",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#ll711ulfzvlwyvnl",
+                "description": "Softball on Apr 12, 2025 at 2:30 PM: Tennessee Tech vs. UT Martin",
+                "category": "Softball",
+                "pubDate": "Sat, 12 Apr 2025 19:30:00 GMT",
+                "dc_date": "2025-04-12T19:30:00Z",
+                "score": null,
+                "opponent": "at UT Martin"
+            },
+            {
+                "title": "Tennessee Tech vs. UT Martin",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#zftq8k168qbah54m",
+                "description": "Softball on Apr 13, 2025 at 12:00 PM: Tennessee Tech vs. UT Martin",
+                "category": "Softball",
+                "pubDate": "Sun, 13 Apr 2025 17:00:00 GMT",
+                "dc_date": "2025-04-13T17:00:00Z",
+                "score": null,
+                "opponent": "at UT Martin"
+            },
+            {
+                "title": "Tennessee Tech vs. UT Martin",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#o6kd5hrz4lb5r7s5",
+                "description": "Softball on Apr 13, 2025 at 2:00 PM: Tennessee Tech vs. UT Martin",
+                "category": "Softball",
+                "pubDate": "Sun, 13 Apr 2025 19:00:00 GMT",
+                "dc_date": "2025-04-13T19:00:00Z",
+                "score": null,
+                "opponent": "at UT Martin"
+            },
+            {
+                "title": "Southeast Missouri vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#xzt29k8p0w4cwctc",
+                "description": "Softball on Apr 18, 2025 at 12:00 PM: Southeast Missouri vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Fri, 18 Apr 2025 17:00:00 GMT",
+                "dc_date": "2025-04-18T17:00:00Z",
+                "score": null,
+                "opponent": "Southeast Missouri"
+            },
+            {
+                "title": "Southeast Missouri vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#ym0wa9mail3y5r2j",
+                "description": "Softball on Apr 18, 2025 at 2:00 PM: Southeast Missouri vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Fri, 18 Apr 2025 19:00:00 GMT",
+                "dc_date": "2025-04-18T19:00:00Z",
+                "score": null,
+                "opponent": "Southeast Missouri"
+            },
+            {
+                "title": "Southeast Missouri vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#luyypn0j2ypbb1b5",
+                "description": "Softball on Apr 19, 2025 at 12:00 PM: Southeast Missouri vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Sat, 19 Apr 2025 17:00:00 GMT",
+                "dc_date": "2025-04-19T17:00:00Z",
+                "score": null,
+                "opponent": "Southeast Missouri"
+            },
+            {
+                "title": "Austin Peay vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#zrjz9zcdp38t7qyv",
+                "description": "Softball on Apr 23, 2025 at 4:00 PM: Austin Peay vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Wed, 23 Apr 2025 21:00:00 GMT",
+                "dc_date": "2025-04-23T21:00:00Z",
+                "score": null,
+                "opponent": "Austin Peay"
+            },
+            {
+                "title": "Tennessee Tech vs. Lindenwood",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#ytrdgi7q3k85kisu",
+                "description": "Softball on Apr 26, 2025 at 12:00 PM: Tennessee Tech vs. Lindenwood",
+                "category": "Softball",
+                "pubDate": "Sat, 26 Apr 2025 17:00:00 GMT",
+                "dc_date": "2025-04-26T17:00:00Z",
+                "score": null,
+                "opponent": "at Lindenwood"
+            },
+            {
+                "title": "Tennessee Tech vs. Lindenwood",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#g10hjoyf2n7d52q9",
+                "description": "Softball on Apr 26, 2025 at 2:00 PM: Tennessee Tech vs. Lindenwood",
+                "category": "Softball",
+                "pubDate": "Sat, 26 Apr 2025 19:00:00 GMT",
+                "dc_date": "2025-04-26T19:00:00Z",
+                "score": null,
+                "opponent": "at Lindenwood"
+            },
+            {
+                "title": "Tennessee Tech vs. Lindenwood",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#htcbauawxj3imd85",
+                "description": "Softball on Apr 27, 2025 at 12:00 PM: Tennessee Tech vs. Lindenwood",
+                "category": "Softball",
+                "pubDate": "Sun, 27 Apr 2025 17:00:00 GMT",
+                "dc_date": "2025-04-27T17:00:00Z",
+                "score": null,
+                "opponent": "at Lindenwood"
+            },
+            {
+                "title": "Tennessee Tech vs. Chattanooga",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#uzmake790fhhbk14",
+                "description": "Softball on Apr 30, 2025 at 5:00 PM: Tennessee Tech vs. Chattanooga",
+                "category": "Softball",
+                "pubDate": "Wed, 30 Apr 2025 21:00:00 GMT",
+                "dc_date": "2025-04-30T21:00:00Z",
+                "score": null,
+                "opponent": "at Chattanooga"
+            },
+            {
+                "title": "Morehead State vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#1jt99dmqiu7ddvyv",
+                "description": "Softball on May 3, 2025 at 12:00 PM: Morehead State vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Sat, 03 May 2025 17:00:00 GMT",
+                "dc_date": "2025-05-03T17:00:00Z",
+                "score": null,
+                "opponent": "Morehead State"
+            },
+            {
+                "title": "Morehead State vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#yo37bd3qajtqo9tb",
+                "description": "Softball on May 3, 2025 at 2:00 PM: Morehead State vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Sat, 03 May 2025 19:00:00 GMT",
+                "dc_date": "2025-05-03T19:00:00Z",
+                "score": null,
+                "opponent": "Morehead State"
+            },
+            {
+                "title": "Morehead State vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/sball/2024-25/schedule#vq5tx9hafshd5fuu",
+                "description": "Softball on May 4, 2025 at 12:00 PM: Morehead State vs. Tennessee Tech",
+                "category": "Softball",
+                "pubDate": "Sun, 04 May 2025 17:00:00 GMT",
+                "dc_date": "2025-05-04T17:00:00Z",
+                "score": null,
+                "opponent": "Morehead State"
+            }
+        ],
+        "volleyball": [
+            {
+                "title": "Lincoln Memorial vs. Tennessee Tech",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#xrugl5m8it4vjo6v",
+                "description": "Women's Volleyball on Aug 20, 2024 at 4:00 PM: Lincoln Memorial vs. Tennessee Tech, Exhibition",
+                "category": "Women's Volleyball",
+                "pubDate": "Tue, 20 Aug 2024 21:00:00 GMT",
+                "dc_date": "2024-08-20T21:00:00Z",
+                "score": null,
+                "opponent": "Lincoln Memorial"
+            },
+            {
+                "title": "Tennessee Tech 3, Austin Peay 0 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#u8jwacddfu2h31i8",
+                "description": "Women's Volleyball on Aug 30, 2024 at 10:00 AM: Tennessee Tech vs. Austin Peay, Carrie Yerty Classic, Final, 3-0",
+                "category": "Women's Volleyball",
+                "pubDate": "Fri, 30 Aug 2024 15:00:00 GMT",
+                "dc_date": "2024-08-30T15:00:00Z",
+                "score": "W, 3-0",
+                "opponent": "vs. Austin Peay @ Memphis, TN"
+            },
+            {
+                "title": "Tennessee Tech 3, Memphis 0 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#asrvikpd0nhnm87k",
+                "description": "Women's Volleyball on Aug 30, 2024 at 7:00 PM: Tennessee Tech vs. Memphis, Carrie Yerty Classic, Final, 3-0",
+                "category": "Women's Volleyball",
+                "pubDate": "Sat, 31 Aug 2024 00:00:00 GMT",
+                "dc_date": "2024-08-31T00:00:00Z",
+                "score": "W, 3-0",
+                "opponent": "at Memphis"
+            },
+            {
+                "title": "Mississippi Valley State 0, Tennessee Tech 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#ogckkaze8xihme7s",
+                "description": "Women's Volleyball on Aug 31, 2024 at 10:00 AM: Mississippi Valley State vs. Tennessee Tech, Carrie Yerty Classic, Final, 0-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Sat, 31 Aug 2024 15:00:00 GMT",
+                "dc_date": "2024-08-31T15:00:00Z",
+                "score": "W, 3-0",
+                "opponent": "vs. Mississippi Valley State @ Memphis, TN"
+            },
+            {
+                "title": "Tennessee Tech 3, Charlotte 0 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#x0x49mdc3om0devg",
+                "description": "Women's Volleyball on Sep 6, 2024 at 9:00 AM: Tennessee Tech vs. Charlotte, Charlotte Invitational, Final, 3-0",
+                "category": "Women's Volleyball",
+                "pubDate": "Fri, 06 Sep 2024 14:00:00 GMT",
+                "dc_date": "2024-09-06T14:00:00Z",
+                "score": "W, 3-0",
+                "opponent": "at Charlotte"
+            },
+            {
+                "title": "Tennessee Tech 3, Towson 2 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#pn5t09qzp7p7lfs8",
+                "description": "Women's Volleyball on Sep 6, 2024 at 3:30 PM: Tennessee Tech vs. Towson, Charlotte Invitational, Final, 3-2",
+                "category": "Women's Volleyball",
+                "pubDate": "Fri, 06 Sep 2024 20:30:00 GMT",
+                "dc_date": "2024-09-06T20:30:00Z",
+                "score": "W, 3-2",
+                "opponent": "vs. Towson @ Charlotte, NC"
+            },
+            {
+                "title": "Tennessee Tech 3, Delaware State 0 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#hky5jvic4iptmr8u",
+                "description": "Women's Volleyball on Sep 7, 2024 at 12:00 PM: Tennessee Tech vs. Delaware State, Charlotte Invitational, Final, 3-0",
+                "category": "Women's Volleyball",
+                "pubDate": "Sat, 07 Sep 2024 17:00:00 GMT",
+                "dc_date": "2024-09-07T17:00:00Z",
+                "score": "W, 3-0",
+                "opponent": "vs. Delaware State @ Charlotte, NC"
+            },
+            {
+                "title": "Nicholls 0, Tennessee Tech 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#8oiyggl74ei5qo8w",
+                "description": "Women's Volleyball on Sep 13, 2024 at 12:30 PM: Nicholls vs. Tennessee Tech, Golden Eagle Invitational presented by Holiday Inn of Cookeville, Final, 0-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Fri, 13 Sep 2024 17:30:00 GMT",
+                "dc_date": "2024-09-13T17:30:00Z",
+                "score": "W, 3-0",
+                "opponent": "Nicholls"
+            },
+            {
+                "title": "West Georgia 0, Tennessee Tech 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#y3p2w2glglh05vxm",
+                "description": "Women's Volleyball on Sep 13, 2024 at 7:00 PM: West Georgia vs. Tennessee Tech, Golden Eagle Invitational presented by Holiday Inn of Cookeville, Final, 0-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Sat, 14 Sep 2024 00:00:00 GMT",
+                "dc_date": "2024-09-14T00:00:00Z",
+                "score": "W, 3-0",
+                "opponent": "West Georgia"
+            },
+            {
+                "title": "Radford 0, Tennessee Tech 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#lm93tsxig5supygf",
+                "description": "Women's Volleyball on Sep 14, 2024 at 2:00 PM: Radford vs. Tennessee Tech, Golden Eagle Invitational presented by Holiday Inn of Cookeville, Final, 0-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Sat, 14 Sep 2024 19:00:00 GMT",
+                "dc_date": "2024-09-14T19:00:00Z",
+                "score": "W, 3-0",
+                "opponent": "Radford"
+            },
+            {
+                "title": "Tennessee Tech 3, UNCG 1 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#yuxcacfb4ljm88tb",
+                "description": "Women's Volleyball on Sep 20, 2024 at 12:00 PM: Tennessee Tech vs. UNCG, Greensboro Invitational, Final, 3-1",
+                "category": "Women's Volleyball",
+                "pubDate": "Fri, 20 Sep 2024 17:00:00 GMT",
+                "dc_date": "2024-09-20T17:00:00Z",
+                "score": "W, 3-1",
+                "opponent": "at UNCG"
+            },
+            {
+                "title": "Tennessee Tech 0, Marshall 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#9z2dqtv1pdafgugt",
+                "description": "Women's Volleyball on Sep 20, 2024 at 3:30 PM: Tennessee Tech vs. Marshall, Greensboro Invitational, Final, 0-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Fri, 20 Sep 2024 20:30:00 GMT",
+                "dc_date": "2024-09-20T20:30:00Z",
+                "score": "L, 3-0",
+                "opponent": "vs. Marshall @ Greensboro, NC"
+            },
+            {
+                "title": "Georgetown 1, Tennessee Tech 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#krtim4pdm7i38ydi",
+                "description": "Women's Volleyball on Sep 21, 2024 at 10:00 AM: Georgetown vs. Tennessee Tech, Greensboro Invitational, Final, 1-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Sat, 21 Sep 2024 15:00:00 GMT",
+                "dc_date": "2024-09-21T15:00:00Z",
+                "score": "W, 3-1",
+                "opponent": "vs. Georgetown @ Greensboro, NC"
+            },
+            {
+                "title": "Tennessee Tech 3, Tennessee State 2 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#j2mws5msnsfx0emp",
+                "description": "Women's Volleyball on Sep 27, 2024 at 6:00 PM: Tennessee Tech vs. Tennessee State, Final, 3-2",
+                "category": "Women's Volleyball",
+                "pubDate": "Fri, 27 Sep 2024 23:00:00 GMT",
+                "dc_date": "2024-09-27T23:00:00Z",
+                "score": "W, 3-2",
+                "opponent": "at Tennessee State"
+            },
+            {
+                "title": "Morehead State 1, Tennessee Tech 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#kmlyh3htouopzgpi",
+                "description": "Women's Volleyball on Sep 28, 2024 at 4:00 PM: Morehead State vs. Tennessee Tech, Final, 1-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Sat, 28 Sep 2024 21:00:00 GMT",
+                "dc_date": "2024-09-28T21:00:00Z",
+                "score": "W, 3-1",
+                "opponent": "Morehead State"
+            },
+            {
+                "title": "Western Illinois 0, Tennessee Tech 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#df4xv9zk6cebt9y9",
+                "description": "Women's Volleyball on Oct 3, 2024 at 2:00 PM: Western Illinois vs. Tennessee Tech, Final, 0-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Thu, 03 Oct 2024 19:00:00 GMT",
+                "dc_date": "2024-10-03T19:00:00Z",
+                "score": "W, 3-0",
+                "opponent": "Western Illinois"
+            },
+            {
+                "title": "Western Illinois 2, Tennessee Tech 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#6zx1oqknpadwmj7w",
+                "description": "Women's Volleyball on Oct 4, 2024 at 2:00 PM: Western Illinois vs. Tennessee Tech, Final, 2-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Fri, 04 Oct 2024 19:00:00 GMT",
+                "dc_date": "2024-10-04T19:00:00Z",
+                "score": "W, 3-2",
+                "opponent": "Western Illinois"
+            },
+            {
+                "title": "Tennessee Tech 0, Lindenwood 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#cp8ywnd8hjljrbt3",
+                "description": "Women's Volleyball on Oct 10, 2024 at 6:00 PM: Tennessee Tech vs. Lindenwood, Final, 0-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Thu, 10 Oct 2024 23:00:00 GMT",
+                "dc_date": "2024-10-10T23:00:00Z",
+                "score": "L, 3-0",
+                "opponent": "at Lindenwood"
+            },
+            {
+                "title": "Tennessee Tech 0, Lindenwood 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#aatrkvw9qi190kcr",
+                "description": "Women's Volleyball on Oct 11, 2024 at 6:00 PM: Tennessee Tech vs. Lindenwood, Final, 0-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Fri, 11 Oct 2024 23:00:00 GMT",
+                "dc_date": "2024-10-11T23:00:00Z",
+                "score": "L, 3-0",
+                "opponent": "at Lindenwood"
+            },
+            {
+                "title": "Tennessee Tech 1, Eastern Illinois 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#7cnoe2svy6a4vi5u",
+                "description": "Women's Volleyball on Oct 18, 2024 at 6:00 PM: Tennessee Tech vs. Eastern Illinois, Final, 1-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Fri, 18 Oct 2024 23:00:00 GMT",
+                "dc_date": "2024-10-18T23:00:00Z",
+                "score": "L, 3-1",
+                "opponent": "at Eastern Illinois"
+            },
+            {
+                "title": "Tennessee Tech 3, Eastern Illinois 0 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#dlh9mxczup6b5bkm",
+                "description": "Women's Volleyball on Oct 19, 2024 at 4:00 PM: Tennessee Tech vs. Eastern Illinois, Final, 3-0",
+                "category": "Women's Volleyball",
+                "pubDate": "Sat, 19 Oct 2024 21:00:00 GMT",
+                "dc_date": "2024-10-19T21:00:00Z",
+                "score": "W, 3-0",
+                "opponent": "at Eastern Illinois"
+            },
+            {
+                "title": "Little Rock 3, Tennessee Tech 1 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#7kimggdpqt5ybs4h",
+                "description": "Women's Volleyball on Oct 25, 2024 at 6:00 PM: Little Rock vs. Tennessee Tech, Final, 3-1",
+                "category": "Women's Volleyball",
+                "pubDate": "Fri, 25 Oct 2024 23:00:00 GMT",
+                "dc_date": "2024-10-25T23:00:00Z",
+                "score": "L, 3-1",
+                "opponent": "Little Rock"
+            },
+            {
+                "title": "Little Rock 3, Tennessee Tech 1 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#e8wrs262np6lojt7",
+                "description": "Women's Volleyball on Oct 26, 2024 at 7:00 PM: Little Rock vs. Tennessee Tech, Final, 3-1",
+                "category": "Women's Volleyball",
+                "pubDate": "Sun, 27 Oct 2024 00:00:00 GMT",
+                "dc_date": "2024-10-27T00:00:00Z",
+                "score": "L, 3-1",
+                "opponent": "Little Rock"
+            },
+            {
+                "title": "Tennessee Tech 2, Southeast Missouri 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#ebc8p5t4d69p0mhy",
+                "description": "Women's Volleyball on Nov 1, 2024 at 6:00 PM: Tennessee Tech vs. Southeast Missouri, Final, 2-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Fri, 01 Nov 2024 23:00:00 GMT",
+                "dc_date": "2024-11-01T23:00:00Z",
+                "score": "L, 3-2",
+                "opponent": "at Southeast Missouri"
+            },
+            {
+                "title": "Tennessee Tech 3, Southeast Missouri 1 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#gaoabawgkjxo6foc",
+                "description": "Women's Volleyball on Nov 2, 2024 at 2:00 PM: Tennessee Tech vs. Southeast Missouri, Final, 3-1",
+                "category": "Women's Volleyball",
+                "pubDate": "Sat, 02 Nov 2024 19:00:00 GMT",
+                "dc_date": "2024-11-02T19:00:00Z",
+                "score": "W, 3-1",
+                "opponent": "at Southeast Missouri"
+            },
+            {
+                "title": "SIUE 0, Tennessee Tech 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#1aswv6o7mk2sv9vw",
+                "description": "Women's Volleyball on Nov 8, 2024 at 6:00 PM: SIUE vs. Tennessee Tech, Final, 0-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Sat, 09 Nov 2024 00:00:00 GMT",
+                "dc_date": "2024-11-09T00:00:00Z",
+                "score": "W, 3-0",
+                "opponent": "SIUE"
+            },
+            {
+                "title": "SIUE 1, Tennessee Tech 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#yo9owsypi2rjd5u7",
+                "description": "Women's Volleyball on Nov 9, 2024 at 2:00 PM: SIUE vs. Tennessee Tech, Final, 1-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Sat, 09 Nov 2024 20:00:00 GMT",
+                "dc_date": "2024-11-09T20:00:00Z",
+                "score": "W, 3-1",
+                "opponent": "SIUE"
+            },
+            {
+                "title": "Southern Indiana 0, Tennessee Tech 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#9ezjj7us88vhh5xc",
+                "description": "Women's Volleyball on Nov 14, 2024 at 3:30 PM: Southern Indiana vs. Tennessee Tech, Final, 0-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Thu, 14 Nov 2024 21:30:00 GMT",
+                "dc_date": "2024-11-14T21:30:00Z",
+                "score": "W, 3-0",
+                "opponent": "Southern Indiana"
+            },
+            {
+                "title": "Southern Indiana 0, Tennessee Tech 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#6qcx2wuw9b9pegis",
+                "description": "Women's Volleyball on Nov 15, 2024 at 6:00 PM: Southern Indiana vs. Tennessee Tech, Final, 0-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Sat, 16 Nov 2024 00:00:00 GMT",
+                "dc_date": "2024-11-16T00:00:00Z",
+                "score": "W, 3-0",
+                "opponent": "Southern Indiana"
+            },
+            {
+                "title": "Tennessee Tech 3, UT Martin 0 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#xllxmy2r0cqg96np",
+                "description": "Women's Volleyball on Nov 19, 2024 at 6:00 PM: Tennessee Tech vs. UT Martin, Final, 3-0",
+                "category": "Women's Volleyball",
+                "pubDate": "Wed, 20 Nov 2024 00:00:00 GMT",
+                "dc_date": "2024-11-20T00:00:00Z",
+                "score": "W, 3-0",
+                "opponent": "at UT Martin"
+            },
+            {
+                "title": "Tennessee Tech 3, UT Martin 0 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#3o6npclq4yc7sl9k",
+                "description": "Women's Volleyball on Nov 20, 2024 at 4:00 PM: Tennessee Tech vs. UT Martin, Final, 3-0",
+                "category": "Women's Volleyball",
+                "pubDate": "Wed, 20 Nov 2024 22:00:00 GMT",
+                "dc_date": "2024-11-20T22:00:00Z",
+                "score": "W, 3-0",
+                "opponent": "at UT Martin"
+            },
+            {
+                "title": "Little Rock 0, Tennessee Tech 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#wqk3rg4mree6bsx9",
+                "description": "Women's Volleyball on Nov 24, 2024 at 1:00 PM: Little Rock vs. Tennessee Tech, OVC Tournament - First Round, Final, 0-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Sun, 24 Nov 2024 19:00:00 GMT",
+                "dc_date": "2024-11-24T19:00:00Z",
+                "score": "W, 3-0",
+                "opponent": "vs. Little Rock @ Cape Girardeau, MO"
+            },
+            {
+                "title": "Tennessee Tech 2, Lindenwood 3 Final",
+                "link": "https://www.ttusports.com/sports/wvball/2024-25/schedule#yq65m0aypa6o4ldg",
+                "description": "Women's Volleyball on Nov 25, 2024 at 2:00 PM: Tennessee Tech vs. Lindenwood, OVC Tournament - Semifinals, Final, 2-3",
+                "category": "Women's Volleyball",
+                "pubDate": "Mon, 25 Nov 2024 20:00:00 GMT",
+                "dc_date": "2024-11-25T20:00:00Z",
+                "score": "L, 3-2",
+                "opponent": "vs. Lindenwood @ Cape Girardeau, MO"
+            }
+        ]
+    }
+}
